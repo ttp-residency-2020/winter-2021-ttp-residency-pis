@@ -75,7 +75,7 @@
 
  </details>
 
-## Curriculum Index TO BE UPDATED
+## :card_file_box: Curriculum Index TO BE UPDATED
 
 <details><summary>Click to Expand</summary>
 
@@ -121,7 +121,7 @@ Class Session 19: Exit Assessment and Demo Day | (01/24/2020)
 
 </details>
 
-## Curriculum
+## :school: Curriculum
 
 <details><summary>Click to Expand</summary>
 
@@ -135,6 +135,66 @@ Summary Goes Here
 
 <details><summary>Click to open</summary>
 
-#### Day 1
+#### Day 1: Onboarding, Git/Github/Collaborative Software Development (Pair Programming)
+
+Pre-Readings:
+
+- [Git Codecademy Tutorial](https://www.codecademy.com/learn/learn-git)
+
+- [Writing good commit messages](https://medium.com/compass-true-north/writing-good-commit-messages-fc33af9d6321)
+
+- [Advanced Git Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows)
+
+| Topic      | Lecture              | Slides                                                                                                     |
+| ---------- | -------------------- | ---------------------------------------------------------------------------------------------------------- |
+| Git Part 1 | 📺[Insert Link Here] | [🖼️](https://docs.google.com/presentation/d/12tgnThkuKGHpbxZEv2RTWOTLpViL1O3hcHEGNJv9Wzo/edit?usp=sharing) |
+| Git Part 2 | 📺[Insert Link Here] | [🖼️](https://docs.google.com/presentation/d/1Qkz1Z83P2b2EUFDrMN8L1X7BcMwZzzkSqCKCI8INH78/edit?usp=sharing) |
+
+Assignment(s):
+
+- [Collaboration Workshop Assignment #1](https://docs.google.com/document/d/1Yp10nGa09vAWzIlCxmkayuEf2RhKN0UhakKl_Zgplak)
+
+#### Day 2:
+
+Pre-Readings:
+
+- [Eloquent Javascript Chapter 3: Functions](http://eloquentjavascript.net/03_functions.html)
+
+- [Eloquent Javascript Chapter 4: Objects and Arrays](http://eloquentjavascript.net/04_data.html)
+
+- [Eloquent Javascript Chapter 5: Higher Order Function](http://eloquentjavascript.net/05_higher_order.html)
+
+| Topic            | Lecture              | Slides                                                                                   |
+| ---------------- | -------------------- | ---------------------------------------------------------------------------------------- |
+| Javascript!      | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1JL2pjlW0np5sxY8uKLQdU_W8vd3PPXdM/view?usp=sharing) |
+| More Javascript! | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1RAYPYLNmtDRqLy1bBFuDxpqsiOnYOpRg/view?usp=sharing) |
+
+Assignment(s):
+
+- [Assignment #2](https://docs.google.com/document/d/1sB2_tX6U8_OiLHNrqa2KSleKFE_SjOkl9uO_IC_hLh8/edit?usp=sharing)
+
+#### Day 3:
+
+Pre-Readings:
+
+- [Eloquent Javascript Chapter 13: Javascript and the Browser](http://eloquentjavascript.net/13_browser.html)
+
+- [Eloquent Javascript Chapter 14: The Document Object Model](http://eloquentjavascript.net/14_dom.html)
+
+- [Eloquent Javascript Chapter 15: Handling Events](http://eloquentjavascript.net/15_event.html)
+
+- [A Series of DOM Slides](https://www.teaching-materials.org/jsweb/slides/dom#/)
+
+| Topic   | Lecture              | Slides                                                                                                     |
+| ------- | -------------------- | ---------------------------------------------------------------------------------------------------------- |
+| The DOM | 📺[Insert Link Here] | [🖼️](https://docs.google.com/presentation/d/1MWE-AoSTGIQsk1-4UkLwlWwy-ns6VSbECK3fLIEL8LQ/edit?usp=sharing) |
+
+Assignment(s):
+
+- [Assignment #3: DOM Challenges I](https://docs.google.com/document/d/1kY-L3-Nc1tGqcqNZMfxgRvQ6FBvQ6J8fFknki0BE8Ps/edit?usp=sharing)
+
+- [Assignment #4: DOM Challenges II](https://docs.google.com/document/d/1LPxdisEKHdqf9Xs9khDEQzMvtrOWNumcW_h700jP8Z8/edit?usp=sharing)
+
+- [Assignment #5: DOM Challenges III](https://docs.google.com/document/d/1ZoWo5FtpiWP7LxsskteMGYPoYWQWzCsaHB2xjrLAqfA/edit?usp=sharing)
 
 </details>
