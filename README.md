@@ -41,7 +41,7 @@
 - [:card_file_box: LinkedIn]()
 - [:octocat: Github]()
 
-### Teaching Assistants:
+### Teaching Assistants
 
 #### Bashir Alhanshali
 
