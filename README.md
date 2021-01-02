@@ -29,16 +29,16 @@
 
 <details><summary>Click to Expand</summary>
 
-### Lead Instructor : Depak Borhara
+### Lead Instructor : Depak Borhara(He/Him)
 
 - [:e-mail: Email](depakborhara@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/depakborhara)
+- [:card_file_box: LinkedIn](https://www.linkedin.com/in/depakborhara)
 - [:octocat: Github](http://github.com/DBorhara)
 
 ### Lead TA: Konstantinos Houtas
 
 - [:e-mail: Email]()
-- [LinkedIn]()
+- [:card_file_box: LinkedIn]()
 - [:octocat: Github]()
 
 ### Teaching Assistants:
@@ -46,31 +46,31 @@
 #### Bashir Alhanshali
 
 - [:e-mail: Email]()
-- [LinkedIn]()
+- [:card_file_box: LinkedIn]()
 - [:octocat: Github]()
 
 #### Emmanuel Kandilas
 
 - [:e-mail: Email]()
-- [LinkedIn]()
+- [:card_file_box: LinkedIn]()
 - [:octocat: Github]()
 
 #### Temurbek Sabirov
 
 - [:e-mail: Email]()
-- [LinkedIn]()
+- [:card_file_box: LinkedIn]()
 - [:octocat: Github]()
 
 #### Sagar Shrestha
 
 - [:e-mail: Email]()
-- [LinkedIn]()
+- [:card_file_box: LinkedIn]()
 - [:octocat: Github]()
 
 ## Program Manager: Allan James S. Lapid
 
 - [:e-mail: Email](ajLapid718@gmail.com)
-- [LinkedIn]()
+- [:card_file_box: LinkedIn]()
 - [:octocat: Github]()
 
  </details>
