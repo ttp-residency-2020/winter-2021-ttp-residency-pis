@@ -45,9 +45,9 @@
 
 #### Bashir Alhanshali
 
-- [:e-mail: Email]()
-- [:card_file_box: LinkedIn]()
-- [:octocat: Github]()
+- [:e-mail: Email](bashiralhanshali@gmail.com)
+- [:card_file_box: LinkedIn](https://www.linkedin.com/in/balhanshali/)
+- [:octocat: Github](https://github.com/bashir2017)
 
 #### Emmanuel Kandilas
 
