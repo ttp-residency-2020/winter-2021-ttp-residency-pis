@@ -63,9 +63,9 @@
 
 #### Sagar Shrestha
 
-- [:e-mail: Email]()
-- [:card_file_box: LinkedIn]()
-- [:octocat: Github]()
+- [:e-mail: Email](sg28r8@gmail.com)
+- [:card_file_box: LinkedIn](https://www.linkedin.com/in/sagr2848/)
+- [:octocat: Github](https://github.com/sgr2848)
 
 ## Program Manager: Allan James S. Lapid
 
