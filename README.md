@@ -57,9 +57,9 @@
 
 #### Temurbek Sabirov
 
-- [:e-mail: Email]()
-- [:card_file_box: LinkedIn]()
-- [:octocat: Github]()
+- [:e-mail: Email](temurbeksab98@gmail.com)
+- [:card_file_box: LinkedIn](https://www.linkedin.com/in/temursabirov/)
+- [:octocat: Github](https://github.com/Temurbekk)
 
 #### Sagar Shrestha
 
