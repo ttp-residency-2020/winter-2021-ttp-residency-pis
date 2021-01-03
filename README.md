@@ -37,9 +37,9 @@
 
 ### Lead TA: Konstantinos Houtas
 
-- [:e-mail: Email]()
-- [:card_file_box: LinkedIn]()
-- [:octocat: Github]()
+- [:e-mail: Email](khoutas98@gmail.com)
+- [:card_file_box: LinkedIn](https://www.linkedin.com/in/khoutas/)
+- [:octocat: Github](https://github.com/Reyder95)
 
 ### Teaching Assistants
 
