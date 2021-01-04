@@ -49,11 +49,11 @@
 - [:card_file_box: LinkedIn](https://www.linkedin.com/in/balhanshali/)
 - [:octocat: Github](https://github.com/bashir2017)
 
-#### Emmanuel Kandilas
+#### Emmanuel Kandilas (Manny) (He/Him)
 
-- [:e-mail: Email]()
-- [:card_file_box: LinkedIn]()
-- [:octocat: Github]()
+- [:e-mail: Email](Ekandilas@gmail.com)
+- [:card_file_box: LinkedIn](https://www.linkedin.com/in/manny-kan-code/)
+- [:octocat: Github](https://github.com/E-kandilas)
 
 #### Temurbek Sabirov
 
