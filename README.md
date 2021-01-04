@@ -8,7 +8,7 @@
   - Monday - Friday, 10AM - 4PM
   - Dates: January 4, 2021(Monday) - January 29, 2021(Friday)
   <!-- Insert Live Zoom Link -->
-  - [:movie_camera: Zoom Link](zoomLink)
+  - [:movie_camera: Zoom Link](https://us02web.zoom.us/j/83101880157?pwd=L0d5ZHhMazcya3JwTTJGTGRaRCtHQT09)
   - [:computer: Slack Workspace](slackLink)
 
 </details>
