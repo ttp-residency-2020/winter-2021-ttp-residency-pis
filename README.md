@@ -9,7 +9,7 @@
   - Dates: January 4, 2021(Monday) - January 29, 2021(Friday)
 
 - [:movie_camera: Zoom Link](https://us02web.zoom.us/j/83101880157?pwd=L0d5ZHhMazcya3JwTTJGTGRaRCtHQT09)
-- [:computer: Slack Workspace](slackLink)
+- [:computer: Slack Workspace](https://app.slack.com/client/T0149RH248J/C01433YF022)
 
 </details>
 
