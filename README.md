@@ -75,49 +75,49 @@
 
  </details>
 
-## :card_file_box: Curriculum Index TO BE UPDATED
+## :card_file_box: Curriculum Index
 
 <details><summary>Click to Expand</summary>
 
 Pre-Bootcamp Material
 
-Class Session 1: Pilot Assessment and Collaborative Workflow I | (05/28/2020)
+Class Session 1: Pilot Assessment and Collaborative Workflow I | (01/04/2021)
 
-Class Session 2: Collaborative Workflow I and Introduction to JS | (05/29/2020)
+Class Session 2: Collaborative Workflow I and Introduction to JS | (01/05/2021)
 
-Class Session 3: DOM Manipulation | (06/01/2020)
+Class Session 3: DOM Manipulation | (01/06/2021)
 
-Class Session 4: Introduction to React | (06/02/2020)
+Class Session 4: Introduction to React | (01/07/2021)
 
-Class Session 5: Introduction to External API Requests and ReactJS | (06/03/2020)
+Class Session 5: Introduction to External API Requests and ReactJS | (01/08/2021)
 
-Class Session 6: Introduction to External API Requests and ReactJS Continued | (06/04/2020)
+Class Session 6: Introduction to External API Requests and ReactJS Continued | (01/11/2021)
 
-Class Session 7: React Router and Client-Side Routing in a SPA | (01/10/2020)
+Class Session 7: React Router and Client-Side Routing in a SPA | (01/12/2021)
 
-Class Session 8: State Management with Redux and React-Redux | (01/11/2020)
+Class Session 8: State Management with Redux and React-Redux | (01/13/2021)
 
-Class Session 9: Introduction to NodeJS | (01/13/2020)
+Class Session 9: Introduction to NodeJS | (01/14/2021)
 
-Class Session 10: CRUD App I | (01/14/2020)
+Class Session 10: CRUD App I | (01/15/2021)
 
-Class Session 11: CRUD App II | (01/15/2020)
+Class Session 11: CRUD App II | (01/19/2021)
 
-Class Session 12: CRUD App III | (01/16/2020)
+Class Session 12: CRUD App III | (01/20/2021)
 
-Class Session 13: Project Building I | (01/17/2020)
+Class Session 13: Project Building I | (01/21/2021)
 
-Class Session 14: Project Building II | (01/18/2020)
+Class Session 14: Project Building II | (01/22/2021)
 
-Class Session 15: Project Building III | (01/20/2020)
+Class Session 15: Project Building III | (01/25/2021)
 
-Class Session 16: Project Building IV | (01/21/2020)
+Class Session 16: Project Building IV | (01/26/2021)
 
-Class Session 17: Project Building V | (01/22/2020)
+Class Session 17: Project Building V | (01/27/2021)
 
-Class Session 18: Project Building VI | (01/23/2020)
+Class Session 18: Project Building VI | (01/28/2021)
 
-Class Session 19: Exit Assessment and Demo Day | (01/24/2020)
+Class Session 19: Exit Assessment and Demo Day | (01/29/2021)
 
 </details>
 
@@ -131,7 +131,7 @@ Class Session 19: Exit Assessment and Demo Day | (01/24/2020)
 
 ### Week 1
 
-Summary Goes Here
+Welcome! We will be going over alot this week! This week includes git workflow, javascript, The DOM, and React!
 
 <details><summary>Click to open</summary>
 
@@ -145,16 +145,16 @@ Pre-Readings:
 
 - [Advanced Git Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows)
 
-| Topic      | Lecture              | Slides                                                                                                     |
+<!-- | Topic      | Lecture              | Slides                                                                                                     |
 | ---------- | -------------------- | ---------------------------------------------------------------------------------------------------------- |
 | Git Part 1 | 📺[Insert Link Here] | [🖼️](https://docs.google.com/presentation/d/12tgnThkuKGHpbxZEv2RTWOTLpViL1O3hcHEGNJv9Wzo/edit?usp=sharing) |
 | Git Part 2 | 📺[Insert Link Here] | [🖼️](https://docs.google.com/presentation/d/1Qkz1Z83P2b2EUFDrMN8L1X7BcMwZzzkSqCKCI8INH78/edit?usp=sharing) |
 
 Assignment(s):
 
-- [Collaboration Workshop Assignment #1](https://docs.google.com/document/d/1Yp10nGa09vAWzIlCxmkayuEf2RhKN0UhakKl_Zgplak)
+- [Collaboration Workshop Assignment #1](https://docs.google.com/document/d/1Yp10nGa09vAWzIlCxmkayuEf2RhKN0UhakKl_Zgplak) -->
 
-#### Day 2:
+#### Day 2: Javascript Basics Overview
 
 Pre-Readings:
 
@@ -164,16 +164,16 @@ Pre-Readings:
 
 - [Eloquent Javascript Chapter 5: Higher Order Function](http://eloquentjavascript.net/05_higher_order.html)
 
-| Topic            | Lecture              | Slides                                                                                   |
+<!-- | Topic            | Lecture              | Slides                                                                                   |
 | ---------------- | -------------------- | ---------------------------------------------------------------------------------------- |
 | Javascript!      | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1JL2pjlW0np5sxY8uKLQdU_W8vd3PPXdM/view?usp=sharing) |
 | More Javascript! | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1RAYPYLNmtDRqLy1bBFuDxpqsiOnYOpRg/view?usp=sharing) |
 
 Assignment(s):
 
-- [Assignment #2](https://docs.google.com/document/d/1sB2_tX6U8_OiLHNrqa2KSleKFE_SjOkl9uO_IC_hLh8/edit?usp=sharing)
+- [Assignment #2](https://docs.google.com/document/d/1sB2_tX6U8_OiLHNrqa2KSleKFE_SjOkl9uO_IC_hLh8/edit?usp=sharing) -->
 
-#### Day 3:
+#### Day 3 : DOM Manipulation
 
 Pre-Readings:
 
@@ -185,7 +185,7 @@ Pre-Readings:
 
 - [A Series of DOM Slides](https://www.teaching-materials.org/jsweb/slides/dom#/)
 
-| Topic   | Lecture              | Slides                                                                                                     |
+<!-- | Topic   | Lecture              | Slides                                                                                                     |
 | ------- | -------------------- | ---------------------------------------------------------------------------------------------------------- |
 | The DOM | 📺[Insert Link Here] | [🖼️](https://docs.google.com/presentation/d/1MWE-AoSTGIQsk1-4UkLwlWwy-ns6VSbECK3fLIEL8LQ/edit?usp=sharing) |
 
@@ -195,6 +195,113 @@ Assignment(s):
 
 - [Assignment #4: DOM Challenges II](https://docs.google.com/document/d/1LPxdisEKHdqf9Xs9khDEQzMvtrOWNumcW_h700jP8Z8/edit?usp=sharing)
 
-- [Assignment #5: DOM Challenges III](https://docs.google.com/document/d/1ZoWo5FtpiWP7LxsskteMGYPoYWQWzCsaHB2xjrLAqfA/edit?usp=sharing)
+- [Assignment #5: DOM Challenges III](https://docs.google.com/document/d/1ZoWo5FtpiWP7LxsskteMGYPoYWQWzCsaHB2xjrLAqfA/edit?usp=sharing) -->
+
+#### Day 4 : Introduction to React
+
+Pre-Readings:
+
+- [React: Hello World](https://reactjs.org/docs/hello-world.html)
+
+- [React: Introducing JSX](https://reactjs.org/docs/introducing-jsx.html)
+
+- [React: Rendering Elements](https://reactjs.org/docs/rendering-elements.html)
+
+- [React: Components and Props](https://reactjs.org/docs/components-and-props.html)
+
+- [React: State and Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)
+
+- [React: Handling Events](https://reactjs.org/docs/handling-events.html)
+
+- [React: Conditional Rendering](https://reactjs.org/docs/conditional-rendering.html)
+
+- [React: List and Keys](https://reactjs.org/docs/lists-and-keys.html)
+
+- [React: Forms](https://reactjs.org/docs/forms.html)
+
+- [React: Lifting State Up](https://reactjs.org/docs/lifting-state-up.html)
+
+- [React: Composition vs Inheritance](https://reactjs.org/docs/composition-vs-inheritance.html)
+
+- [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
+
+- [React: An Overview via Videos](https://www.youtube.com/watch?v=FRjlF74_EZk&list=PLruo2gSoqleiMVEIqmvZkIpFEN_TPt0hR)
+
+  _Reading for the weekend_:
+
+- [ReactJS: Quick Guide](https://www.tutorialspoint.com/reactjs/reactjs_quick_guide.htm) (An Optional Read) (Skip the section on Flux Architecture --- we'll be discussing that in Week 3)
+
+<!-- | Topic   | Lecture              | Slides                                                                                                     |
+| ------- | -------------------- | ---------------------------------------------------------------------------------------------------------- |
+| ReactJS | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1BBC8z_kuZ-PT0WmGeDbgM9AmZr2IOPrE/view?usp=sharing |
+
+Group Project #1:
+[Fullstack CRUD Application](https://docs.google.com/document/d/1tKiSJiPBnQTKzcUehzOYwn1Dv5V4uYO4-rTO0t3rQxM/edit#heading=h.7nze431u3zaf) -->
+
+#### Day 5 : Introduction to External API Requests and ReactJS Continued
+
+Pre-Readings:
+
+[React Lifecyle Methods](https://reactjs.org/docs/state-and-lifecycle.html)
+
+- [Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+
+- [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+
+<!-- | Topic   | Lecture              | Slides                                                                                                     |
+| ------- | -------------------- | ---------------------------------------------------------------------------------------------------------- |
+| AJAX, fetch, and Axios | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1xMVz85U_cwgEqjynGaEMfwT_JNYbI1E6/view?usp=sharing)|
+| Promises | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1xVo6kagZiOvdXexzT7ujiIXZTFC2ov0F/view?usp=sharing) |
+| React Lifecycle | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1n_wwOKf6cjvAQPYK7Z0P3qN_mRw82ozY/view?usp=sharing)|
+| React Events / Forms | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1HXGVusEsJjIVsYaMyscbwiLwggMphV2s/view?usp=sharing)|
+
+Additional Resources:
+- [Handling Multiple Inputs With One HandleChange Function](https://medium.com/@tmkelly28/handling-multiple-form-inputs-in-react-c5eb83755d15)
+
+- [An Approach for a Cancel Button](https://medium.com/@justintulk/best-practices-for-resetting-an-es6-react-components-state-81c0c86df98d)
+
+- [Sabe React Tutorial](https://sabe.io/tutorials/getting-started-with-react)
+- [Async/Await](https://www.youtube.com/watch?v=vn3tm0quoqE&t=170s)
+
+- [Conditional Rendering: I](https://react-cn.github.io/react/tips/if-else-in-JSX.html)
+- [Conditional Rendering: II](http://devnacho.com/2016/02/15/different-ways-to-add-if-else-statements-in-JSX/) (Be aware of all options, but disregard Option 2 for the time being)
+- [Conditional Rendering: III](https://reactjs.org/docs/conditional-rendering.html)
+
+- [Expected Behavior of Form/Folder Exercises](https://545q7.codesandbox.io/) -->
+
+#### Day 6 : Zip/City API Assignment && GIPHY API Assignment I
+
+<!-- Assignment(s):
+
+- [Zip/City API Assignment (Assignment "#6")](https://gist.github.com/ajLapid718/6abcbd05383b178d200ea00a09edd0bc)
+
+- [GIPHY API Assignment (Assignment "#7")](https://gist.github.com/ajLapid718/dfc6f6c7377336d916686bb148c031c1)
+
+Helpful Readings & Tools:
+
+- [Chrome Extension for JSON Viewing](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=en-US)
+- [Lists and Keys](https://reactjs.org/docs/lists-and-keys.html)
+- [Async/Await in a HOF](https://blog.bitsrc.io/understanding-javascript-async-and-await-with-examples-a010b03926ea) -->
+
+#### Day 7 : Zip/City API Assignment && GIPHY API Assignment II
+
+#### Day 8 : React Router and Client-Side Routing In a Single-Page-Application
+
+Pre-Readings:
+
+- [React Router Resource 1](https://codeburst.io/getting-started-with-react-router-5c978f70df91)
+- [React Router Resource 2](https://reacttraining.com/react-router/web/guides/quick-start)
+- [React Router Resource #3](https://reacttraining.com/react-router/web/guides/philosophy)
+- [React Router Resource #4](https://www.techiediaries.com/react-router-dom-v4/)
+
+<!-- | Topic   | Lecture              | Slides                                                                                                     |
+| ------- | -------------------- | ---------------------------------------------------------------------------------------------------------- |
+| React Router| 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1X7DB3LbAPPPEklKE-359GVKKFFsDGOg3/view) |
+
+Assignment(s):
+
+- [DOM Challenges III with ReactJS: Assignment #8](https://docs.google.com/document/d/1Wk--Xn8oTGWk6Lv39jl--8JtGC-MJQ49Qadv1Y0bv2s/edit)
+
+- [Bank of React Assignment](https://gist.github.com/ajLapid718/0a95c08420ea645735bac88113928f63) -->
 
 </details>
