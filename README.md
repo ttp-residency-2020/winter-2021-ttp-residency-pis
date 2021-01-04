@@ -81,7 +81,9 @@
 <details><summary>Click to Expand</summary>
 
 Pre-Bootcamp Material
+
 Week 1
+
 Class Session 1: Pilot Assessment and Collaborative Workflow I | (01/04/2021)
 
 Class Session 2: Collaborative Workflow I and Introduction to JS | (01/05/2021)
@@ -91,7 +93,9 @@ Class Session 3: DOM Manipulation | (01/06/2021)
 Class Session 4: Introduction to React | (01/07/2021)
 
 Class Session 5: Introduction to External API Requests and ReactJS | (01/08/2021)
+
 Week2
+
 Class Session 6: Introduction to External API Requests and ReactJS Continued | (01/11/2021)
 
 Class Session 7: React Router and Client-Side Routing in a SPA | (01/12/2021)
@@ -101,7 +105,9 @@ Class Session 8: State Management with Redux and React-Redux | (01/13/2021)
 Class Session 9: Introduction to NodeJS | (01/14/2021)
 
 Class Session 10: Introduction to Express | (01/15/2021)
+
 Week 3
+
 Class Session 11: PostgreSQL/Sequelize I| (01/19/2021)
 
 Class Session 12: PostgreSQL/Sequelize II| (01/20/2021)
@@ -109,7 +115,9 @@ Class Session 12: PostgreSQL/Sequelize II| (01/20/2021)
 Class Session 13: Project Building I | (01/21/2021)
 
 Class Session 14: Project Building II | (01/22/2021)
+
 Week 4
+
 Class Session 15: Project Building III | (01/25/2021)
 
 Class Session 16: Project Building IV | (01/26/2021)
