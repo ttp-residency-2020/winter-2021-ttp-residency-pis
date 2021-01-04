@@ -1,4 +1,4 @@
-# 📚 Tech Talent Pipeline Residency: Winter 2021 Bootcamp
+<!-- # 📚 Tech Talent Pipeline Residency: Winter 2021 Bootcamp
 
 ## :scroll: Course Information
 
@@ -8,8 +8,9 @@
   - Monday - Friday, 10AM - 4PM
   - Dates: January 4, 2021(Monday) - January 29, 2021(Friday)
   <!-- Insert Live Zoom Link -->
-  - [:movie_camera: Zoom Link](https://us02web.zoom.us/j/83101880157?pwd=L0d5ZHhMazcya3JwTTJGTGRaRCtHQT09)
-  - [:computer: Slack Workspace](slackLink)
+
+- [:movie_camera: Zoom Link](https://us02web.zoom.us/j/83101880157?pwd=L0d5ZHhMazcya3JwTTJGTGRaRCtHQT09)
+- [:computer: Slack Workspace](slackLink)
 
 </details>
 
@@ -67,7 +68,7 @@
 - [:card_file_box: LinkedIn](https://www.linkedin.com/in/sagr2848/)
 - [:octocat: Github](https://github.com/sgr2848)
 
-## Program Manager: Allan James S. Lapid
+### Program Manager: Allan James S. Lapid
 
 - [:e-mail: Email](ajLapid718@gmail.com)
 - [:card_file_box: LinkedIn]()
@@ -80,7 +81,7 @@
 <details><summary>Click to Expand</summary>
 
 Pre-Bootcamp Material
-
+Week 1
 Class Session 1: Pilot Assessment and Collaborative Workflow I | (01/04/2021)
 
 Class Session 2: Collaborative Workflow I and Introduction to JS | (01/05/2021)
@@ -90,7 +91,7 @@ Class Session 3: DOM Manipulation | (01/06/2021)
 Class Session 4: Introduction to React | (01/07/2021)
 
 Class Session 5: Introduction to External API Requests and ReactJS | (01/08/2021)
-
+Week2
 Class Session 6: Introduction to External API Requests and ReactJS Continued | (01/11/2021)
 
 Class Session 7: React Router and Client-Side Routing in a SPA | (01/12/2021)
@@ -99,16 +100,16 @@ Class Session 8: State Management with Redux and React-Redux | (01/13/2021)
 
 Class Session 9: Introduction to NodeJS | (01/14/2021)
 
-Class Session 10: CRUD App I | (01/15/2021)
+Class Session 10: Introduction to Express | (01/15/2021)
+Week 3
+Class Session 11: PostgreSQL/Sequelize I| (01/19/2021)
 
-Class Session 11: CRUD App II | (01/19/2021)
-
-Class Session 12: CRUD App III | (01/20/2021)
+Class Session 12: PostgreSQL/Sequelize II| (01/20/2021)
 
 Class Session 13: Project Building I | (01/21/2021)
 
 Class Session 14: Project Building II | (01/22/2021)
-
+Week 4
 Class Session 15: Project Building III | (01/25/2021)
 
 Class Session 16: Project Building IV | (01/26/2021)
@@ -135,7 +136,9 @@ Welcome! We will be going over alot this week! This week includes git workflow, 
 
 <details><summary>Click to open</summary>
 
-#### Day 1: Onboarding, Git/Github/Collaborative Software Development (Pair Programming)
+#### Day 1: Pilot Assessment and Collaborative Workflow I
+
+#### Day 2: Onboarding, Git/Github/Collaborative Software Development (Pair Programming)
 
 Pre-Readings:
 
@@ -154,7 +157,7 @@ Assignment(s):
 
 - [Collaboration Workshop Assignment #1](https://docs.google.com/document/d/1Yp10nGa09vAWzIlCxmkayuEf2RhKN0UhakKl_Zgplak) -->
 
-#### Day 2: Javascript Basics Overview
+<!-- #### Day 3: Javascript Basics Overview
 
 Pre-Readings:
 
@@ -164,7 +167,7 @@ Pre-Readings:
 
 - [Eloquent Javascript Chapter 5: Higher Order Function](http://eloquentjavascript.net/05_higher_order.html)
 
-<!-- | Topic            | Lecture              | Slides                                                                                   |
+| Topic            | Lecture              | Slides                                                                                   |
 | ---------------- | -------------------- | ---------------------------------------------------------------------------------------- |
 | Javascript!      | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1JL2pjlW0np5sxY8uKLQdU_W8vd3PPXdM/view?usp=sharing) |
 | More Javascript! | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1RAYPYLNmtDRqLy1bBFuDxpqsiOnYOpRg/view?usp=sharing) |
@@ -173,7 +176,7 @@ Assignment(s):
 
 - [Assignment #2](https://docs.google.com/document/d/1sB2_tX6U8_OiLHNrqa2KSleKFE_SjOkl9uO_IC_hLh8/edit?usp=sharing) -->
 
-#### Day 3 : DOM Manipulation
+<!-- #### Day 4 : DOM Manipulation
 
 Pre-Readings:
 
@@ -197,7 +200,7 @@ Assignment(s):
 
 - [Assignment #5: DOM Challenges III](https://docs.google.com/document/d/1ZoWo5FtpiWP7LxsskteMGYPoYWQWzCsaHB2xjrLAqfA/edit?usp=sharing) -->
 
-#### Day 4 : Introduction to React
+<!-- #### Day 5 : Introduction to React
 
 Pre-Readings:
 
@@ -231,14 +234,22 @@ Pre-Readings:
 
 - [ReactJS: Quick Guide](https://www.tutorialspoint.com/reactjs/reactjs_quick_guide.htm) (An Optional Read) (Skip the section on Flux Architecture --- we'll be discussing that in Week 3)
 
-<!-- | Topic   | Lecture              | Slides                                                                                                     |
-| ------- | -------------------- | ---------------------------------------------------------------------------------------------------------- |
+| Topic   | Lecture              | Slides                                                                                  |
+| ------- | -------------------- | --------------------------------------------------------------------------------------- |
 | ReactJS | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1BBC8z_kuZ-PT0WmGeDbgM9AmZr2IOPrE/view?usp=sharing |
 
 Group Project #1:
 [Fullstack CRUD Application](https://docs.google.com/document/d/1tKiSJiPBnQTKzcUehzOYwn1Dv5V4uYO4-rTO0t3rQxM/edit#heading=h.7nze431u3zaf) -->
 
-#### Day 5 : Introduction to External API Requests and ReactJS Continued
+</details>
+
+### Week 2
+
+This week we will finish up with React, and go into React-Router, State Management with Redux, and NodeJS.
+
+<details><summary>Click to open</summary>
+
+<!-- #### Day 6 : Introduction to External API Requests and ReactJS Continued
 
 Pre-Readings:
 
@@ -248,14 +259,15 @@ Pre-Readings:
 
 - [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 
-<!-- | Topic   | Lecture              | Slides                                                                                                     |
-| ------- | -------------------- | ---------------------------------------------------------------------------------------------------------- |
-| AJAX, fetch, and Axios | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1xMVz85U_cwgEqjynGaEMfwT_JNYbI1E6/view?usp=sharing)|
-| Promises | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1xVo6kagZiOvdXexzT7ujiIXZTFC2ov0F/view?usp=sharing) |
-| React Lifecycle | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1n_wwOKf6cjvAQPYK7Z0P3qN_mRw82ozY/view?usp=sharing)|
-| React Events / Forms | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1HXGVusEsJjIVsYaMyscbwiLwggMphV2s/view?usp=sharing)|
+| Topic                  | Lecture              | Slides                                                                                   |
+| ---------------------- | -------------------- | ---------------------------------------------------------------------------------------- |
+| AJAX, fetch, and Axios | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1xMVz85U_cwgEqjynGaEMfwT_JNYbI1E6/view?usp=sharing) |
+| Promises               | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1xVo6kagZiOvdXexzT7ujiIXZTFC2ov0F/view?usp=sharing) |
+| React Lifecycle        | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1n_wwOKf6cjvAQPYK7Z0P3qN_mRw82ozY/view?usp=sharing) |
+| React Events / Forms   | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1HXGVusEsJjIVsYaMyscbwiLwggMphV2s/view?usp=sharing) |
 
 Additional Resources:
+
 - [Handling Multiple Inputs With One HandleChange Function](https://medium.com/@tmkelly28/handling-multiple-form-inputs-in-react-c5eb83755d15)
 
 - [An Approach for a Cancel Button](https://medium.com/@justintulk/best-practices-for-resetting-an-es6-react-components-state-81c0c86df98d)
@@ -269,23 +281,7 @@ Additional Resources:
 
 - [Expected Behavior of Form/Folder Exercises](https://545q7.codesandbox.io/) -->
 
-#### Day 6 : Zip/City API Assignment && GIPHY API Assignment I
-
-<!-- Assignment(s):
-
-- [Zip/City API Assignment (Assignment "#6")](https://gist.github.com/ajLapid718/6abcbd05383b178d200ea00a09edd0bc)
-
-- [GIPHY API Assignment (Assignment "#7")](https://gist.github.com/ajLapid718/dfc6f6c7377336d916686bb148c031c1)
-
-Helpful Readings & Tools:
-
-- [Chrome Extension for JSON Viewing](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=en-US)
-- [Lists and Keys](https://reactjs.org/docs/lists-and-keys.html)
-- [Async/Await in a HOF](https://blog.bitsrc.io/understanding-javascript-async-and-await-with-examples-a010b03926ea) -->
-
-#### Day 7 : Zip/City API Assignment && GIPHY API Assignment II
-
-#### Day 8 : React Router and Client-Side Routing In a Single-Page-Application
+<!-- #### Day 7 : React Router and Client-Side Routing In a Single-Page-Application
 
 Pre-Readings:
 
@@ -294,9 +290,9 @@ Pre-Readings:
 - [React Router Resource #3](https://reacttraining.com/react-router/web/guides/philosophy)
 - [React Router Resource #4](https://www.techiediaries.com/react-router-dom-v4/)
 
-<!-- | Topic   | Lecture              | Slides                                                                                                     |
-| ------- | -------------------- | ---------------------------------------------------------------------------------------------------------- |
-| React Router| 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1X7DB3LbAPPPEklKE-359GVKKFFsDGOg3/view) |
+| Topic        | Lecture              | Slides                                                                       |
+| ------------ | -------------------- | ---------------------------------------------------------------------------- |
+| React Router | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1X7DB3LbAPPPEklKE-359GVKKFFsDGOg3/view) |
 
 Assignment(s):
 
@@ -304,4 +300,100 @@ Assignment(s):
 
 - [Bank of React Assignment](https://gist.github.com/ajLapid718/0a95c08420ea645735bac88113928f63) -->
 
+<!-- #### Day 8 : State Management with Redux and React-Redux
+
+Pre-Readings:
+
+- [Redux Tutorial by Dan Abramov](https://egghead.io/courses/getting-started-with-redux)
+- [Follow Up Redux Tutorial by Dan Abramov](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
+
+| Topic                         | Lecture              | Slides                                                                                   |
+| ----------------------------- | -------------------- | ---------------------------------------------------------------------------------------- |
+| Redux / React-Redux Slides    | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1lg62vSdB3kS0PHBQJrzfNuCfgq7v7Ed6/view?usp=sharing) |
+| Redux / React-Redux Slides #2 | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1T4kvykmcM2MvKvnExjopJv2i4cOjZw1O/view?usp=sharing) |
+| Redux Middleware Slides       | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/13D5Wv4-evRB9FUgRlr9cH_vPE0oRgafi/view?usp=sharing) |
+| Redux Thunk Middleware Slides | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1CWDPOigoVDwZDc4iLEpJMJ7MN42cT3qI/view?usp=sharing) |
+
+Additional Resources:
+
+- [What Thunks Are, What They Solve, and Other Options](https://medium.com/fullstack-academy/thunks-in-redux-the-basics-85e538a3fe60)
+
+- [Free "Learn Redux" Course by Wes Bos](https://learnredux.com/)
+- [Redux-Thunk Explanation](https://learn.co/lessons/redux-thunk-readme)
+- [React-Redux Gist](https://gist.github.com/ajLapid718/5597d565c3090955c22ae0e2b6a2ca84)
+- [Redeux](https://github.com/ajLapid718/Redeux)
+  - A repository with different branches containing code that briefly goes over Redux-Thunks, Redux-Saga, Redux-Loop, Redux-Promise, and Redux-Observable
+  - Also a valuable resource to review barrel files, code splitting and organization, combineReducers(), and Redux middleware such as redux-logger -->
+
+<!-- #### Day 9 : Introduction to NodeJS
+
+Pre-Readings:
+
+Coming Soon!
+
+| Topic         | Lecture              | Slides                                                                                   |
+| ------------- | -------------------- | ---------------------------------------------------------------------------------------- |
+| Intro to Node | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1ipobX-kGeBf7bW5cshE7Nx3PS3dwpY9z/view?usp=sharing) |
+| NPM           | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1HBf6oLbu5VIBfFM2P-a2A2FYmFaN_4W4/view?usp=sharing) |
+
+Additional Resources:
+
+- [JavaScript Conference 2014: The Event Loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ&feature=youtu.be&t=676) <= _The entire video is recommended to understand Node's async implementation, but the core explanation begins around 11 minutes into the video_
+
+- [NodeJS: Module Exports](https://www.sitepoint.com/understanding-module-exports-exports-node-js/) <= _Main Takeaway: A deeper understanding of Node's module system_
+
+- [JavaScript Conference 2019: 10 Things I Regret About NodeJS by the creator of NodeJS](https://www.youtube.com/watch?v=M3BM9TB-8yA&vl=en)
+
+- [Express Codecademy Tutorial](https://www.codecademy.com/learn/learn-express) -->
+
+<!-- #### Day 10 : Introduction to Express
+
+| Topic                         | Lecture              | Slides                                                                                   |
+| ----------------------------- | -------------------- | ---------------------------------------------------------------------------------------- |
+| Intro to Express              | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/16awMgO3cPkabEpa08NZCaOjFH7J9E1Yg/view?usp=sharing) |
+| Redux / React-Redux Slides #2 | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1ijx6JmRUiiDI9AlPyZewh18GPgim4GJ1/view?usp=sharing) | -->
+
+</details>
+
+### Week 3
+
+Databases/Sequelize/PostgresSQL andCapstone Project Starts
+
+<details><summary>Click to open</summary>
+
+<!-- #### Day 11 : PostgreSQL/Sequelize I
+
+| Topic                      | Lecture              | Slides                                                                                   |
+| -------------------------- | -------------------- | ---------------------------------------------------------------------------------------- |
+| Intro to PostgresSQL       | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1lrJMJQ6sIN9Xk0AImzOgTKkXh741VI3p/view?usp=sharing) |
+| PostgreSQL: Node.js Client | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1m-xlhm4QL93bxWvYsR0MVhF13a9USEXH/view)             |
+| Sequelize                  | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1aiuzts6wny4Wk0ipB_ohBk3CJzOmr65M/view?usp=sharing) |
+
+- [Sequelize Querying and Associations: Part I](https://gist.github.com/ajLapid718/ca67efc0360c617e5eebb6f1342ae53e)
+- [Sequelize Querying and Associations: Part II](https://gist.github.com/ajLapid718/dfb48815a7472e9f6df09131bd0a7d49)
+
+Additional Resources:
+
+- [SQLBolt Tutorial](https://sqlbolt.com/)
+- [SQLZoo Tutorial](https://sqlzoo.net/)
+- [Tom Kelly Sequelize Docs](https://github.com/tmkelly28/sequelize-reference) -->
+
+<!-- #### Day 12 : PostgreSQL/Sequelize II
+
+| Topic                              | Lecture              | Slides                                                                                   |
+| ---------------------------------- | -------------------- | ---------------------------------------------------------------------------------------- |
+| Intro to Databases                 | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1lrJMJQ6sIN9Xk0AImzOgTKkXh741VI3p/view?usp=sharing) |
+| PostgreSQL: Node.js Client         | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1m-xlhm4QL93bxWvYsR0MVhF13a9USEXH/view)             |
+| Node-Postgres                      | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1DG3bbl8Gs59g7k2UqTo6eP_9LyYaZPyu/view?usp=sharing) |
+| Intro To Schemas                   | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/16cL5H3i5Yo9S2GNDqQJrFOHfT9QZbOKI/view?usp=sharing) |
+| Introduction To ORMs               | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1uuGYZ-ag-NXMTLt1yp63mIdsGp_mYAWJ/view?usp=sharing) |
+| Rounding Out Express and Sequelize | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1X13dFSydJiMV1Xfg6a5qyrMfwJfvQQ6d/view?usp=sharing) | -->
+
+</details>
+
+### Week 4
+
+Capstone Project, Demo Day, and Exit Assessment
+
+<details><summary>Click to open</summary>
 </details>
