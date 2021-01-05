@@ -1,12 +1,11 @@
-
 # 📚 Tech Talent Pipeline Residency: Winter 2021 Bootcamp
-
 
 ## :scroll: Course Information
 
 <details><summary>Click to Expand</summary>
 
 - Class Days and Times
+
   - Monday - Friday, 10AM - 4PM
   - Dates: January 4, 2021(Monday) - January 29, 2021(Friday)
 
@@ -165,6 +164,20 @@ Pre-Readings:
 Assignment(s):
 
 - [Collaboration Workshop Assignment #1](https://docs.google.com/document/d/1Yp10nGa09vAWzIlCxmkayuEf2RhKN0UhakKl_Zgplak)
+
+Additional Resources:
+
+Adding git yo your machine:
+
+- https://www.atlassian.com/git/tutorials/install-git
+- https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+- https://help.github.com/en/github/using-git/getting-started-with-git-and-github
+
+Git Cheat Sheets:
+
+- https://education.github.com/git-cheat-sheet-education.pdf
+- https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
+- https://www.git-tower.com/learn/cheat-sheets/vcs-workflow
 
 #### Day 3: Javascript Basics Overview
 
