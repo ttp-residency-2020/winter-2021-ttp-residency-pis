@@ -1,4 +1,4 @@
-<!-- # 📚 Tech Talent Pipeline Residency: Winter 2021 Bootcamp
+# 📚 Tech Talent Pipeline Residency: Winter 2021 Bootcamp
 
 ## :scroll: Course Information
 
@@ -7,7 +7,7 @@
 - Class Days and Times
   - Monday - Friday, 10AM - 4PM
   - Dates: January 4, 2021(Monday) - January 29, 2021(Friday)
-  <!-- Insert Live Zoom Link -->
+  <!-- Insert Live Zoom Link
 
 - [:movie_camera: Zoom Link](https://us02web.zoom.us/j/83101880157?pwd=L0d5ZHhMazcya3JwTTJGTGRaRCtHQT09)
 - [:computer: Slack Workspace](slackLink)
@@ -148,16 +148,16 @@ Pre-Readings:
 
 - [Advanced Git Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows)
 
-<!-- | Topic      | Lecture              | Slides                                                                                                     |
+| Topic      | Lecture              | Slides                                                                                                     |
 | ---------- | -------------------- | ---------------------------------------------------------------------------------------------------------- |
 | Git Part 1 | 📺[Insert Link Here] | [🖼️](https://docs.google.com/presentation/d/12tgnThkuKGHpbxZEv2RTWOTLpViL1O3hcHEGNJv9Wzo/edit?usp=sharing) |
 | Git Part 2 | 📺[Insert Link Here] | [🖼️](https://docs.google.com/presentation/d/1Qkz1Z83P2b2EUFDrMN8L1X7BcMwZzzkSqCKCI8INH78/edit?usp=sharing) |
 
 Assignment(s):
 
-- [Collaboration Workshop Assignment #1](https://docs.google.com/document/d/1Yp10nGa09vAWzIlCxmkayuEf2RhKN0UhakKl_Zgplak) -->
+- [Collaboration Workshop Assignment #1](https://docs.google.com/document/d/1Yp10nGa09vAWzIlCxmkayuEf2RhKN0UhakKl_Zgplak)
 
-<!-- #### Day 3: Javascript Basics Overview
+#### Day 3: Javascript Basics Overview
 
 Pre-Readings:
 
@@ -167,7 +167,7 @@ Pre-Readings:
 
 - [Eloquent Javascript Chapter 5: Higher Order Function](http://eloquentjavascript.net/05_higher_order.html)
 
-| Topic            | Lecture              | Slides                                                                                   |
+<!-- | Topic            | Lecture              | Slides                                                                                   |
 | ---------------- | -------------------- | ---------------------------------------------------------------------------------------- |
 | Javascript!      | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1JL2pjlW0np5sxY8uKLQdU_W8vd3PPXdM/view?usp=sharing) |
 | More Javascript! | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1RAYPYLNmtDRqLy1bBFuDxpqsiOnYOpRg/view?usp=sharing) |
