@@ -193,16 +193,16 @@ Pre-Readings:
 
 - [Eloquent Javascript Chapter 5: Higher Order Function](http://eloquentjavascript.net/05_higher_order.html)
 
-<!-- | Topic            | Lecture              | Slides                                                                                   |
+| Topic            | Lecture              | Slides                                                                                   |
 | ---------------- | -------------------- | ---------------------------------------------------------------------------------------- |
 | Javascript!      | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1JL2pjlW0np5sxY8uKLQdU_W8vd3PPXdM/view?usp=sharing) |
 | More Javascript! | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1RAYPYLNmtDRqLy1bBFuDxpqsiOnYOpRg/view?usp=sharing) |
 
 Assignment(s):
 
-- [Assignment #2](https://docs.google.com/document/d/1sB2_tX6U8_OiLHNrqa2KSleKFE_SjOkl9uO_IC_hLh8/edit?usp=sharing) -->
+- [Assignment #2](https://docs.google.com/document/d/1sB2_tX6U8_OiLHNrqa2KSleKFE_SjOkl9uO_IC_hLh8/edit?usp=sharing)
 
-<!-- #### Day 4 : DOM Manipulation
+#### Day 4 : DOM Manipulation
 
 Pre-Readings:
 
@@ -224,7 +224,7 @@ Assignment(s):
 
 - [Assignment #4: DOM Challenges II](https://docs.google.com/document/d/1LPxdisEKHdqf9Xs9khDEQzMvtrOWNumcW_h700jP8Z8/edit?usp=sharing)
 
-- [Assignment #5: DOM Challenges III](https://docs.google.com/document/d/1ZoWo5FtpiWP7LxsskteMGYPoYWQWzCsaHB2xjrLAqfA/edit?usp=sharing) -->
+- [Assignment #5: DOM Challenges III](https://docs.google.com/document/d/1ZoWo5FtpiWP7LxsskteMGYPoYWQWzCsaHB2xjrLAqfA/edit?usp=sharing)
 
 <!-- #### Day 5 : Introduction to React
 
