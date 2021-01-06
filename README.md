@@ -173,6 +173,10 @@ Adding git yo your machine:
 - https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 - https://help.github.com/en/github/using-git/getting-started-with-git-and-github
 
+Git Workflow:
+-https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
+
+
 Git Cheat Sheets:
 
 - https://education.github.com/git-cheat-sheet-education.pdf
