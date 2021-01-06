@@ -156,10 +156,12 @@ Pre-Readings:
 
 - [Advanced Git Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows)
 
-| Topic      | Lecture              | Slides                                                                                                     |
-| ---------- | -------------------- | ---------------------------------------------------------------------------------------------------------- |
-| Git Part 1 | 📺[Insert Link Here] | [🖼️](https://docs.google.com/presentation/d/12tgnThkuKGHpbxZEv2RTWOTLpViL1O3hcHEGNJv9Wzo/edit?usp=sharing) |
-| Git Part 2 | 📺[Insert Link Here] | [🖼️](https://docs.google.com/presentation/d/1Qkz1Z83P2b2EUFDrMN8L1X7BcMwZzzkSqCKCI8INH78/edit?usp=sharing) |
+| Topic      | Lecture                                                                                                                   | Slides                                                                                                     |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| Git Part 1 | [📺](https://us02web.zoom.us/rec/share/XhAeJGdHPzUIB33gn2EdLTUJyGbVnSIRQbJmmqXfON13K-s2CfhTmsWuN_QQEXz1.4d3LpJWzH61s3UID) | [🖼️](https://docs.google.com/presentation/d/12tgnThkuKGHpbxZEv2RTWOTLpViL1O3hcHEGNJv9Wzo/edit?usp=sharing) |
+| Git Part 2 |                                                                                                                           | [🖼️](https://docs.google.com/presentation/d/1Qkz1Z83P2b2EUFDrMN8L1X7BcMwZzzkSqCKCI8INH78/edit?usp=sharing) |
+
+Passcode: @3Bh2fA6
 
 Assignment(s):
 
