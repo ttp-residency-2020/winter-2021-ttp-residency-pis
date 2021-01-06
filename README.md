@@ -173,9 +173,7 @@ Adding git yo your machine:
 - https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 - https://help.github.com/en/github/using-git/getting-started-with-git-and-github
 
-Git Workflow:
--https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
-
+Git Workflow: -https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
 
 Git Cheat Sheets:
 
@@ -201,6 +199,10 @@ Pre-Readings:
 Assignment(s):
 
 - [Assignment #2](https://docs.google.com/document/d/1sB2_tX6U8_OiLHNrqa2KSleKFE_SjOkl9uO_IC_hLh8/edit?usp=sharing)
+
+Additional Resources:
+
+[Repl Link](https://repl.it/@DBorhara/TTPWiinter2021JS#index.js)
 
 #### Day 4 : DOM Manipulation
 
