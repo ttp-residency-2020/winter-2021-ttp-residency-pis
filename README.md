@@ -169,13 +169,15 @@ Assignment(s):
 
 Additional Resources:
 
-Adding git yo your machine:
+Adding git your machine:
 
 - https://www.atlassian.com/git/tutorials/install-git
 - https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 - https://help.github.com/en/github/using-git/getting-started-with-git-and-github
 
-Git Workflow: -https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
+Git Workflow:
+
+-https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
 
 Git Cheat Sheets:
 
@@ -193,10 +195,12 @@ Pre-Readings:
 
 - [Eloquent Javascript Chapter 5: Higher Order Function](http://eloquentjavascript.net/05_higher_order.html)
 
-| Topic            | Lecture              | Slides                                                                                   |
-| ---------------- | -------------------- | ---------------------------------------------------------------------------------------- |
-| Javascript!      | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1JL2pjlW0np5sxY8uKLQdU_W8vd3PPXdM/view?usp=sharing) |
-| More Javascript! | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1RAYPYLNmtDRqLy1bBFuDxpqsiOnYOpRg/view?usp=sharing) |
+| Topic            | Lecture                                                                                                                  | Slides                                                                                   |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
+| Javascript!      | [📺](https://us02web.zoom.us/rec/share/NdBu6n2oZJ50kXdVR7OlQr931xvgCfLV5jYpWax3LYhwT6WgwHdfg-lgwFAKVuI.hXnSF2Z8wKxZrN7I) | [🖼️](https://drive.google.com/file/d/1JL2pjlW0np5sxY8uKLQdU_W8vd3PPXdM/view?usp=sharing) |
+| More Javascript! |                                                                                                                          | [🖼️](https://drive.google.com/file/d/1RAYPYLNmtDRqLy1bBFuDxpqsiOnYOpRg/view?usp=sharing) |
+
+Passcode : c?54QKRA
 
 Assignment(s):
 
@@ -204,7 +208,8 @@ Assignment(s):
 
 Additional Resources:
 
-[Repl Link](https://repl.it/@DBorhara/TTPWiinter2021JS#index.js)
+- [Repl Link](https://repl.it/@DBorhara/TTPWiinter2021JS#index.js)
+- [Awwwards Site](https://www.awwwards.com/websites/reactjsdah/)
 
 #### Day 4 : DOM Manipulation
 
