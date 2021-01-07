@@ -211,7 +211,6 @@ Additional Resources:
 - [Repl Link](https://repl.it/@DBorhara/TTPWiinter2021JS#index.js)
 - [Awwwards Site](https://www.awwwards.com/websites/reactjsdah/)
 
-
 #### Day 4 : DOM Manipulation
 
 Pre-Readings:
@@ -235,6 +234,16 @@ Assignment(s):
 - [Assignment #4: DOM Challenges II](https://docs.google.com/document/d/1LPxdisEKHdqf9Xs9khDEQzMvtrOWNumcW_h700jP8Z8/edit?usp=sharing)
 
 - [Assignment #5: DOM Challenges III](https://docs.google.com/document/d/1ZoWo5FtpiWP7LxsskteMGYPoYWQWzCsaHB2xjrLAqfA/edit?usp=sharing)
+
+Additional Resource:
+
+- [Homemade Reducer](https://repl.it/@DBorhara/Reduceeeeerrr#index.js)
+
+- [List of JS Events](https://developer.mozilla.org/en-US/docs/Web/Events)
+
+- [HTML Collection vs NodeList](https://teamtreehouse.com/community/understanding-the-difference-between-an-htmlcollection-and-a-nodelist)
+
+- [NodeList Docs](https://developer.mozilla.org/en-US/docs/Web/API/NodeList)
 
 #### Day 5 : Introduction to React
 
