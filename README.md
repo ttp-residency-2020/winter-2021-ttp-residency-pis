@@ -226,7 +226,7 @@ Pre-Readings:
 
 | Topic   | Lecture              | Slides                                                                                                     |
 | ------- | -------------------- | ---------------------------------------------------------------------------------------------------------- |
-| The DOM | 📺[Insert Link Here] | [🖼️](https://docs.google.com/presentation/d/1MWE-AoSTGIQsk1-4UkLwlWwy-ns6VSbECK3fLIEL8LQ/edit?usp=sharing) |
+| The DOM | 📺[Insert Link Here] | [🖼️](https://docs.google.com/presentation/d/1TjI1htHMMbvmoN0A4RcgepSKP-AJ-z08XzVXWD_ZBOk/edit?usp=sharing) |
 
 Assignment(s):
 
