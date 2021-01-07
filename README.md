@@ -211,6 +211,7 @@ Additional Resources:
 - [Repl Link](https://repl.it/@DBorhara/TTPWiinter2021JS#index.js)
 - [Awwwards Site](https://www.awwwards.com/websites/reactjsdah/)
 
+
 #### Day 4 : DOM Manipulation
 
 Pre-Readings:
@@ -223,7 +224,7 @@ Pre-Readings:
 
 - [A Series of DOM Slides](https://www.teaching-materials.org/jsweb/slides/dom#/)
 
-<!-- | Topic   | Lecture              | Slides                                                                                                     |
+| Topic   | Lecture              | Slides                                                                                                     |
 | ------- | -------------------- | ---------------------------------------------------------------------------------------------------------- |
 | The DOM | 📺[Insert Link Here] | [🖼️](https://docs.google.com/presentation/d/1MWE-AoSTGIQsk1-4UkLwlWwy-ns6VSbECK3fLIEL8LQ/edit?usp=sharing) |
 
@@ -235,7 +236,7 @@ Assignment(s):
 
 - [Assignment #5: DOM Challenges III](https://docs.google.com/document/d/1ZoWo5FtpiWP7LxsskteMGYPoYWQWzCsaHB2xjrLAqfA/edit?usp=sharing)
 
-<!-- #### Day 5 : Introduction to React
+#### Day 5 : Introduction to React
 
 Pre-Readings:
 
@@ -269,7 +270,7 @@ Pre-Readings:
 
 - [ReactJS: Quick Guide](https://www.tutorialspoint.com/reactjs/reactjs_quick_guide.htm) (An Optional Read) (Skip the section on Flux Architecture --- we'll be discussing that in Week 3)
 
-| Topic   | Lecture              | Slides                                                                                  |
+<!-- | Topic   | Lecture              | Slides                                                                                  |
 | ------- | -------------------- | --------------------------------------------------------------------------------------- |
 | ReactJS | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1BBC8z_kuZ-PT0WmGeDbgM9AmZr2IOPrE/view?usp=sharing |
 
