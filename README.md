@@ -281,12 +281,12 @@ Pre-Readings:
 
 - [ReactJS: Quick Guide](https://www.tutorialspoint.com/reactjs/reactjs_quick_guide.htm) (An Optional Read) (Skip the section on Flux Architecture --- we'll be discussing that in Week 3)
 
-<!-- | Topic   | Lecture              | Slides                                                                                  |
+| Topic   | Lecture              | Slides                                                                                  |
 | ------- | -------------------- | --------------------------------------------------------------------------------------- |
-| ReactJS | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1BBC8z_kuZ-PT0WmGeDbgM9AmZr2IOPrE/view?usp=sharing |
+| ReactJS | 📺[Insert Link Here] | [🖼️](https://docs.google.com/presentation/d/1ztwgOYekXjr0c58Le8tIWwEcIuwYYLz-9XnLh9NoPB8/edit#slide=id.gb4930cdae2_1_32) |
 
 Group Project #1:
-[Fullstack CRUD Application](https://docs.google.com/document/d/1tKiSJiPBnQTKzcUehzOYwn1Dv5V4uYO4-rTO0t3rQxM/edit#heading=h.7nze431u3zaf) -->
+[Fullstack CRUD Application](https://docs.google.com/document/d/1tKiSJiPBnQTKzcUehzOYwn1Dv5V4uYO4-rTO0t3rQxM/edit#heading=h.7nze431u3zaf)
 
 </details>
 
@@ -313,6 +313,9 @@ Pre-Readings:
 | React Lifecycle        | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1n_wwOKf6cjvAQPYK7Z0P3qN_mRw82ozY/view?usp=sharing) |
 | React Events / Forms   | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1HXGVusEsJjIVsYaMyscbwiLwggMphV2s/view?usp=sharing) |
 
+Assignment #5
+Assignment #6
+Due Friday?
 Additional Resources:
 
 - [Handling Multiple Inputs With One HandleChange Function](https://medium.com/@tmkelly28/handling-multiple-form-inputs-in-react-c5eb83755d15)
