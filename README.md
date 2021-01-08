@@ -285,6 +285,9 @@ Pre-Readings:
 | ------- | -------------------- | --------------------------------------------------------------------------------------- |
 | ReactJS | 📺[Insert Link Here] | [🖼️](https://docs.google.com/presentation/d/1ztwgOYekXjr0c58Le8tIWwEcIuwYYLz-9XnLh9NoPB8/edit#slide=id.gb4930cdae2_1_32) |
 
+Additional Resources:
+[React Docs](https://reactjs.org/docs/getting-started.html)
+
 Group Project #1:
 [Fullstack CRUD Application](https://docs.google.com/document/d/1tKiSJiPBnQTKzcUehzOYwn1Dv5V4uYO4-rTO0t3rQxM/edit#heading=h.7nze431u3zaf)
 
