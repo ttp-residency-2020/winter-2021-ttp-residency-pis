@@ -112,19 +112,19 @@ Class Session 11: PostgreSQL/Sequelize I| (01/19/2021)
 
 Class Session 12: PostgreSQL/Sequelize II| (01/20/2021)
 
-Class Session 13: Project Building I | (01/21/2021)
+Class Session 13: CRUD App I | (01/21/2021)
 
-Class Session 14: Project Building II | (01/22/2021)
+Class Session 14: CRUD App II | (01/22/2021)
 
 Week 4
 
-Class Session 15: Project Building III | (01/25/2021)
+Class Session 15: Project Building I | (01/25/2021)
 
-Class Session 16: Project Building IV | (01/26/2021)
+Class Session 16: Project Building II | (01/26/2021)
 
-Class Session 17: Project Building V | (01/27/2021)
+Class Session 17: Project Building III | (01/27/2021)
 
-Class Session 18: Project Building VI | (01/28/2021)
+Class Session 18: Project Building IV | (01/28/2021)
 
 Class Session 19: Exit Assessment and Demo Day | (01/29/2021)
 
@@ -223,9 +223,11 @@ Pre-Readings:
 
 - [A Series of DOM Slides](https://www.teaching-materials.org/jsweb/slides/dom#/)
 
-| Topic   | Lecture              | Slides                                                                                                     |
-| ------- | -------------------- | ---------------------------------------------------------------------------------------------------------- |
-| The DOM | 📺[Insert Link Here] | [🖼️](https://docs.google.com/presentation/d/1TjI1htHMMbvmoN0A4RcgepSKP-AJ-z08XzVXWD_ZBOk/edit?usp=sharing) |
+| Topic   | Lecture                                                                                                                   | Slides                                                                                                     |
+| ------- | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| The DOM | [📺](https://us02web.zoom.us/rec/share/bfcl4nSHtS5Be1nisiiLzaf6yX7XDbCxPZgHumRtmhJhTeWm8o0Y5hQtAcURDor1.-hOTAZM0HDmkT-0Y) | [🖼️](https://docs.google.com/presentation/d/1TjI1htHMMbvmoN0A4RcgepSKP-AJ-z08XzVXWD_ZBOk/edit?usp=sharing) |
+
+passcode : HCVHC^Z2
 
 Assignment(s):
 
