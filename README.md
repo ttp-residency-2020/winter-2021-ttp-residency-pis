@@ -281,9 +281,22 @@ Pre-Readings:
 
 - [ReactJS: Quick Guide](https://www.tutorialspoint.com/reactjs/reactjs_quick_guide.htm) (An Optional Read) (Skip the section on Flux Architecture --- we'll be discussing that in Week 3)
 
-| Topic   | Lecture              | Slides                                                                                  |
-| ------- | -------------------- | --------------------------------------------------------------------------------------- |
-| ReactJS | 📺[Insert Link Here] | [🖼️](https://docs.google.com/presentation/d/1ztwgOYekXjr0c58Le8tIWwEcIuwYYLz-9XnLh9NoPB8/edit#slide=id.gb4930cdae2_1_32) |
+| Topic   | Lecture                                                                                                                   | Slides                                                                                                                   |
+| ------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| ReactJS | [📺](https://us02web.zoom.us/rec/share/SeaNRJEgq0CZxRnL9eTfItbWOZDI8f5y8wIBNzD5dX7VHVKpNCFHl5r6f4tya9KS.8CPd0mTNhXNy4Dq3) | [🖼️](https://docs.google.com/presentation/d/1ztwgOYekXjr0c58Le8tIWwEcIuwYYLz-9XnLh9NoPB8/edit#slide=id.gb4930cdae2_1_32) |
+
+Passcode: yb20gK!7
+
+##### VsCode Addons
+
+Auto Rename Tag
+Auto Close Tag
+Bracket Pair Colorizer 2
+ESLint
+Markdownlint
+Path Inellisense
+Prettier
+vscode-icons
 
 Additional Resources:
 [React Docs](https://reactjs.org/docs/getting-started.html)
@@ -299,7 +312,7 @@ This week we will finish up with React, and go into React-Router, State Manageme
 
 <details><summary>Click to open</summary>
 
-<!-- #### Day 6 : Introduction to External API Requests and ReactJS Continued
+#### Day 6 : Introduction to External API Requests and ReactJS Continued
 
 Pre-Readings:
 
@@ -309,7 +322,7 @@ Pre-Readings:
 
 - [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 
-| Topic                  | Lecture              | Slides                                                                                   |
+<!-- | Topic                  | Lecture              | Slides                                                                                   |
 | ---------------------- | -------------------- | ---------------------------------------------------------------------------------------- |
 | AJAX, fetch, and Axios | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1xMVz85U_cwgEqjynGaEMfwT_JNYbI1E6/view?usp=sharing) |
 | Promises               | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1xVo6kagZiOvdXexzT7ujiIXZTFC2ov0F/view?usp=sharing) |
