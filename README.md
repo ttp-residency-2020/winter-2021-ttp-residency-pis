@@ -325,9 +325,9 @@ Pre-Readings:
 | Topic                  | Lecture              | Slides                                                                                   |
 | ---------------------- | -------------------- | ---------------------------------------------------------------------------------------- |
 | React Events / Forms   | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1HXGVusEsJjIVsYaMyscbwiLwggMphV2s/view?usp=sharing) |
+| React Lifecycle        | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1n_wwOKf6cjvAQPYK7Z0P3qN_mRw82ozY/view?usp=sharing) |
 <!-- | AJAX, fetch, and Axios | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1xMVz85U_cwgEqjynGaEMfwT_JNYbI1E6/view?usp=sharing) |
-| Promises               | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1xVo6kagZiOvdXexzT7ujiIXZTFC2ov0F/view?usp=sharing) |
-| React Lifecycle        | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1n_wwOKf6cjvAQPYK7Z0P3qN_mRw82ozY/view?usp=sharing) | -->
+| Promises               | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1xVo6kagZiOvdXexzT7ujiIXZTFC2ov0F/view?usp=sharing) |-->
 
 <!-- Assignment #6
 Assignment #7
