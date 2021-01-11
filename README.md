@@ -326,13 +326,15 @@ Pre-Readings:
 | ---------------------- | -------------------- | ---------------------------------------------------------------------------------------- |
 | React Events / Forms   | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1HXGVusEsJjIVsYaMyscbwiLwggMphV2s/view?usp=sharing) |
 | React Lifecycle        | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1n_wwOKf6cjvAQPYK7Z0P3qN_mRw82ozY/view?usp=sharing) |
-<!-- | AJAX, fetch, and Axios | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1xMVz85U_cwgEqjynGaEMfwT_JNYbI1E6/view?usp=sharing) |
-| Promises               | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1xVo6kagZiOvdXexzT7ujiIXZTFC2ov0F/view?usp=sharing) |-->
+| AJAX, fetch, and Axios | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1xMVz85U_cwgEqjynGaEMfwT_JNYbI1E6/view?usp=sharing) |
+| Promises               | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1xVo6kagZiOvdXexzT7ujiIXZTFC2ov0F/view?usp=sharing) |
 
-<!-- Assignment #6
-Assignment #7
-Due FRIDAY OR TUESDAY?
+[Assignment #6](https://gist.github.com/ajLapid718/6abcbd05383b178d200ea00a09edd0bc)
+[Assignment #7](https://gist.github.com/ajLapid718/dfc6f6c7377336d916686bb148c031c1)
+Due Sunday
 Additional Resources:
+
+[Live Code Pokemon API](https://github.com/DBorhara/liveClassDemoTTPWinter)
 
 - [Handling Multiple Inputs With One HandleChange Function](https://medium.com/@tmkelly28/handling-multiple-form-inputs-in-react-c5eb83755d15)
 
@@ -345,7 +347,7 @@ Additional Resources:
 - [Conditional Rendering: II](http://devnacho.com/2016/02/15/different-ways-to-add-if-else-statements-in-JSX/) (Be aware of all options, but disregard Option 2 for the time being)
 - [Conditional Rendering: III](https://reactjs.org/docs/conditional-rendering.html)
 
-- [Expected Behavior of Form/Folder Exercises](https://545q7.codesandbox.io/) -->
+- [Expected Behavior of Form/Folder Exercises](https://545q7.codesandbox.io/)
 
 <!-- #### Day 7 : React Router and Client-Side Routing In a Single-Page-Application
 
