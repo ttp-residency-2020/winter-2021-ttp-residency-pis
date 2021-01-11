@@ -322,16 +322,16 @@ Pre-Readings:
 
 - [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 
-<!-- | Topic                  | Lecture              | Slides                                                                                   |
+| Topic                  | Lecture              | Slides                                                                                   |
 | ---------------------- | -------------------- | ---------------------------------------------------------------------------------------- |
-| AJAX, fetch, and Axios | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1xMVz85U_cwgEqjynGaEMfwT_JNYbI1E6/view?usp=sharing) |
-| Promises               | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1xVo6kagZiOvdXexzT7ujiIXZTFC2ov0F/view?usp=sharing) |
-| React Lifecycle        | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1n_wwOKf6cjvAQPYK7Z0P3qN_mRw82ozY/view?usp=sharing) |
 | React Events / Forms   | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1HXGVusEsJjIVsYaMyscbwiLwggMphV2s/view?usp=sharing) |
+<!-- | AJAX, fetch, and Axios | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1xMVz85U_cwgEqjynGaEMfwT_JNYbI1E6/view?usp=sharing) |
+| Promises               | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1xVo6kagZiOvdXexzT7ujiIXZTFC2ov0F/view?usp=sharing) |
+| React Lifecycle        | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1n_wwOKf6cjvAQPYK7Z0P3qN_mRw82ozY/view?usp=sharing) | -->
 
-Assignment #5
-Assignment #6
-Due Friday?
+<!-- Assignment #6
+Assignment #7
+Due FRIDAY OR TUESDAY?
 Additional Resources:
 
 - [Handling Multiple Inputs With One HandleChange Function](https://medium.com/@tmkelly28/handling-multiple-form-inputs-in-react-c5eb83755d15)
@@ -417,7 +417,7 @@ Additional Resources:
 | Topic                         | Lecture              | Slides                                                                                   |
 | ----------------------------- | -------------------- | ---------------------------------------------------------------------------------------- |
 | Intro to Express              | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/16awMgO3cPkabEpa08NZCaOjFH7J9E1Yg/view?usp=sharing) |
-| Redux / React-Redux Slides #2 | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1ijx6JmRUiiDI9AlPyZewh18GPgim4GJ1/view?usp=sharing) | -->
+
 
 </details>
 
