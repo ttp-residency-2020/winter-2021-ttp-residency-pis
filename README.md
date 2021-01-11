@@ -349,7 +349,7 @@ Additional Resources:
 
 - [Expected Behavior of Form/Folder Exercises](https://545q7.codesandbox.io/)
 
-<!-- #### Day 7 : React Router and Client-Side Routing In a Single-Page-Application
+#### Day 7 : React Router and Client-Side Routing In a Single-Page-Application
 
 Pre-Readings:
 
@@ -358,7 +358,7 @@ Pre-Readings:
 - [React Router Resource #3](https://reacttraining.com/react-router/web/guides/philosophy)
 - [React Router Resource #4](https://www.techiediaries.com/react-router-dom-v4/)
 
-| Topic        | Lecture              | Slides                                                                       |
+<!-- | Topic        | Lecture              | Slides                                                                       |
 | ------------ | -------------------- | ---------------------------------------------------------------------------- |
 | React Router | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1X7DB3LbAPPPEklKE-359GVKKFFsDGOg3/view) |
 
