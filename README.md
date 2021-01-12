@@ -364,20 +364,20 @@ Pre-Readings:
 | ------------ | -------------------- | ---------------------------------------------------------------------------- |
 | React Router | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1X7DB3LbAPPPEklKE-359GVKKFFsDGOg3/view) |
 
-<!-- Assignment(s):
+Assignment(s):
 
 - [DOM Challenges III with ReactJS: Assignment #8](https://docs.google.com/document/d/1Wk--Xn8oTGWk6Lv39jl--8JtGC-MJQ49Qadv1Y0bv2s/edit)
 
-- [Bank of React Assignment](https://gist.github.com/ajLapid718/0a95c08420ea645735bac88113928f63) -->
+- [Bank of React Assignment](https://gist.github.com/ajLapid718/0a95c08420ea645735bac88113928f63)
 
-<!-- #### Day 8 : State Management with Redux and React-Redux
+#### Day 8 : State Management with Redux and React-Redux
 
 Pre-Readings:
 
 - [Redux Tutorial by Dan Abramov](https://egghead.io/courses/getting-started-with-redux)
 - [Follow Up Redux Tutorial by Dan Abramov](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
 
-| Topic                         | Lecture              | Slides                                                                                   |
+<!-- | Topic                         | Lecture              | Slides                                                                                   |
 | ----------------------------- | -------------------- | ---------------------------------------------------------------------------------------- |
 | Redux / React-Redux Slides    | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1lg62vSdB3kS0PHBQJrzfNuCfgq7v7Ed6/view?usp=sharing) |
 | Redux / React-Redux Slides #2 | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1T4kvykmcM2MvKvnExjopJv2i4cOjZw1O/view?usp=sharing) |
