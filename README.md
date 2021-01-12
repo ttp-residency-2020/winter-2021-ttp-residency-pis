@@ -322,12 +322,14 @@ Pre-Readings:
 
 - [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 
-| Topic                  | Lecture              | Slides                                                                                   |
-| ---------------------- | -------------------- | ---------------------------------------------------------------------------------------- |
-| React Events / Forms   | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1HXGVusEsJjIVsYaMyscbwiLwggMphV2s/view?usp=sharing) |
-| React Lifecycle        | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1n_wwOKf6cjvAQPYK7Z0P3qN_mRw82ozY/view?usp=sharing) |
-| AJAX, fetch, and Axios | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1xMVz85U_cwgEqjynGaEMfwT_JNYbI1E6/view?usp=sharing) |
-| Promises               | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1xVo6kagZiOvdXexzT7ujiIXZTFC2ov0F/view?usp=sharing) |
+| Topic                  | Lecture                                                                                                                 | Slides                                                                                   |
+| ---------------------- | ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| React Events / Forms   | 📺(https://us02web.zoom.us/rec/share/5c9eVBsfIFFwRKmD_gvAZ6ailIZTc-ZJ-YP19QW5e1jbB5zbY5aayukcNtCPfk9W._1mv1XuUdIu2dbQ0) | [🖼️](https://drive.google.com/file/d/1HXGVusEsJjIVsYaMyscbwiLwggMphV2s/view?usp=sharing) |
+| React Lifecycle        | 📺[Insert Link Here]                                                                                                    | [🖼️](https://drive.google.com/file/d/1n_wwOKf6cjvAQPYK7Z0P3qN_mRw82ozY/view?usp=sharing) |
+| AJAX, fetch, and Axios | 📺[Insert Link Here]                                                                                                    | [🖼️](https://drive.google.com/file/d/1xMVz85U_cwgEqjynGaEMfwT_JNYbI1E6/view?usp=sharing) |
+| Promises               | 📺[Insert Link Here]                                                                                                    | [🖼️](https://drive.google.com/file/d/1xVo6kagZiOvdXexzT7ujiIXZTFC2ov0F/view?usp=sharing) |
+
+Access Passcode: w.4@7Tc=
 
 [Assignment #6](https://gist.github.com/ajLapid718/6abcbd05383b178d200ea00a09edd0bc)
 [Assignment #7](https://gist.github.com/ajLapid718/dfc6f6c7377336d916686bb148c031c1)
