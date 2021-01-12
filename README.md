@@ -360,11 +360,11 @@ Pre-Readings:
 - [React Router Resource #3](https://reacttraining.com/react-router/web/guides/philosophy)
 - [React Router Resource #4](https://www.techiediaries.com/react-router-dom-v4/)
 
-<!-- | Topic        | Lecture              | Slides                                                                       |
+| Topic        | Lecture              | Slides                                                                       |
 | ------------ | -------------------- | ---------------------------------------------------------------------------- |
 | React Router | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1X7DB3LbAPPPEklKE-359GVKKFFsDGOg3/view) |
 
-Assignment(s):
+<!-- Assignment(s):
 
 - [DOM Challenges III with ReactJS: Assignment #8](https://docs.google.com/document/d/1Wk--Xn8oTGWk6Lv39jl--8JtGC-MJQ49Qadv1Y0bv2s/edit)
 
