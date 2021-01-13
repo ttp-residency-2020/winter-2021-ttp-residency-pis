@@ -388,6 +388,8 @@ Pre-Readings:
 
 Additional Resources:
 
+-[Redux Set Up Checklist](https://docs.google.com/document/d/1PFQ0eg-CzBW1i7dVV_VtWhvkjQ3ssqGSPWbqi5w9dJ0/edit?usp=sharing)
+
 - [What Thunks Are, What They Solve, and Other Options](https://medium.com/fullstack-academy/thunks-in-redux-the-basics-85e538a3fe60)
 
 - [Free "Learn Redux" Course by Wes Bos](https://learnredux.com/)
@@ -397,9 +399,9 @@ Additional Resources:
   - A repository with different branches containing code that briefly goes over Redux-Thunks, Redux-Saga, Redux-Loop, Redux-Promise, and Redux-Observable
   - Also a valuable resource to review barrel files, code splitting and organization, combineReducers(), and Redux middleware such as redux-logger
 
-<!-- #### Day 9 : Introduction to NodeJS
+#### Day 9 : Introduction to NodeJS
 
-Pre-Readings:
+<!-- Pre-Readings:
 
 Coming Soon!
 
