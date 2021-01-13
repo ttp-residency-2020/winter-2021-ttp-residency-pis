@@ -379,7 +379,7 @@ Pre-Readings:
 - [Redux Tutorial by Dan Abramov](https://egghead.io/courses/getting-started-with-redux)
 - [Follow Up Redux Tutorial by Dan Abramov](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
 
-<!-- | Topic                         | Lecture              | Slides                                                                                   |
+| Topic                         | Lecture              | Slides                                                                                   |
 | ----------------------------- | -------------------- | ---------------------------------------------------------------------------------------- |
 | Redux / React-Redux Slides    | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1lg62vSdB3kS0PHBQJrzfNuCfgq7v7Ed6/view?usp=sharing) |
 | Redux / React-Redux Slides #2 | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1T4kvykmcM2MvKvnExjopJv2i4cOjZw1O/view?usp=sharing) |
@@ -395,7 +395,7 @@ Additional Resources:
 - [React-Redux Gist](https://gist.github.com/ajLapid718/5597d565c3090955c22ae0e2b6a2ca84)
 - [Redeux](https://github.com/ajLapid718/Redeux)
   - A repository with different branches containing code that briefly goes over Redux-Thunks, Redux-Saga, Redux-Loop, Redux-Promise, and Redux-Observable
-  - Also a valuable resource to review barrel files, code splitting and organization, combineReducers(), and Redux middleware such as redux-logger -->
+  - Also a valuable resource to review barrel files, code splitting and organization, combineReducers(), and Redux middleware such as redux-logger
 
 <!-- #### Day 9 : Introduction to NodeJS
 
