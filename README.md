@@ -379,12 +379,14 @@ Pre-Readings:
 - [Redux Tutorial by Dan Abramov](https://egghead.io/courses/getting-started-with-redux)
 - [Follow Up Redux Tutorial by Dan Abramov](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
 
-| Topic                         | Lecture              | Slides                                                                                   |
-| ----------------------------- | -------------------- | ---------------------------------------------------------------------------------------- |
-| Redux / React-Redux Slides    | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1lg62vSdB3kS0PHBQJrzfNuCfgq7v7Ed6/view?usp=sharing) |
-| Redux / React-Redux Slides #2 | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1T4kvykmcM2MvKvnExjopJv2i4cOjZw1O/view?usp=sharing) |
-| Redux Middleware Slides       | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/13D5Wv4-evRB9FUgRlr9cH_vPE0oRgafi/view?usp=sharing) |
-| Redux Thunk Middleware Slides | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1CWDPOigoVDwZDc4iLEpJMJ7MN42cT3qI/view?usp=sharing) |
+| Topic                         | Lecture                                                                                                                  | Slides                                                                                   |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
+| Redux / React-Redux Slides    | 📺(https://us02web.zoom.us/rec/share/-odE4AouNdG3uqWh2ShZZKoJVMpQl1d_Ca_0LWSVnI0nf1TnTkeFkIN3eunKoOn8.LFu8JfexXolhRzlm)] | [🖼️](https://drive.google.com/file/d/1lg62vSdB3kS0PHBQJrzfNuCfgq7v7Ed6/view?usp=sharing) |
+| Redux / React-Redux Slides #2 | N/A                                                                                                                      | [🖼️](https://drive.google.com/file/d/1T4kvykmcM2MvKvnExjopJv2i4cOjZw1O/view?usp=sharing) |
+| Redux Middleware Slides       | N/A                                                                                                                      | [🖼️](https://drive.google.com/file/d/13D5Wv4-evRB9FUgRlr9cH_vPE0oRgafi/view?usp=sharing) |
+| Redux Thunk Middleware Slides | N/A                                                                                                                      | [🖼️](https://drive.google.com/file/d/1CWDPOigoVDwZDc4iLEpJMJ7MN42cT3qI/view?usp=sharing) |
+
+Access Passcode: 7FV3&a&2
 
 Additional Resources:
 
