@@ -403,15 +403,13 @@ Additional Resources:
 
 #### Day 9 : Introduction to NodeJS
 
-<!-- Pre-Readings:
-
-Coming Soon!
 
 | Topic         | Lecture              | Slides                                                                                   |
 | ------------- | -------------------- | ---------------------------------------------------------------------------------------- |
 | Intro to Node | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1ipobX-kGeBf7bW5cshE7Nx3PS3dwpY9z/view?usp=sharing) |
 | NPM           | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1HBf6oLbu5VIBfFM2P-a2A2FYmFaN_4W4/view?usp=sharing) |
 
+<!-- 
 Additional Resources:
 
 - [JavaScript Conference 2014: The Event Loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ&feature=youtu.be&t=676) <= _The entire video is recommended to understand Node's async implementation, but the core explanation begins around 11 minutes into the video_
