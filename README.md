@@ -379,12 +379,12 @@ Pre-Readings:
 - [Redux Tutorial by Dan Abramov](https://egghead.io/courses/getting-started-with-redux)
 - [Follow Up Redux Tutorial by Dan Abramov](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
 
-| Topic                         | Lecture                                                                                                                  | Slides                                                                                   |
-| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
-| Redux / React-Redux Slides    | 📺(https://us02web.zoom.us/rec/share/-odE4AouNdG3uqWh2ShZZKoJVMpQl1d_Ca_0LWSVnI0nf1TnTkeFkIN3eunKoOn8.LFu8JfexXolhRzlm)] | [🖼️](https://drive.google.com/file/d/1lg62vSdB3kS0PHBQJrzfNuCfgq7v7Ed6/view?usp=sharing) |
-| Redux / React-Redux Slides #2 | N/A                                                                                                                      | [🖼️](https://drive.google.com/file/d/1T4kvykmcM2MvKvnExjopJv2i4cOjZw1O/view?usp=sharing) |
-| Redux Middleware Slides       | N/A                                                                                                                      | [🖼️](https://drive.google.com/file/d/13D5Wv4-evRB9FUgRlr9cH_vPE0oRgafi/view?usp=sharing) |
-| Redux Thunk Middleware Slides | N/A                                                                                                                      | [🖼️](https://drive.google.com/file/d/1CWDPOigoVDwZDc4iLEpJMJ7MN42cT3qI/view?usp=sharing) |
+| Topic                         | Lecture                                                                                                                 | Slides                                                                                   |
+| ----------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| Redux / React-Redux Slides    | 📺(https://us02web.zoom.us/rec/share/-odE4AouNdG3uqWh2ShZZKoJVMpQl1d_Ca_0LWSVnI0nf1TnTkeFkIN3eunKoOn8.LFu8JfexXolhRzlm) | [🖼️](https://drive.google.com/file/d/1lg62vSdB3kS0PHBQJrzfNuCfgq7v7Ed6/view?usp=sharing) |
+| Redux / React-Redux Slides #2 | N/A                                                                                                                     | [🖼️](https://drive.google.com/file/d/1T4kvykmcM2MvKvnExjopJv2i4cOjZw1O/view?usp=sharing) |
+| Redux Middleware Slides       | N/A                                                                                                                     | [🖼️](https://drive.google.com/file/d/13D5Wv4-evRB9FUgRlr9cH_vPE0oRgafi/view?usp=sharing) |
+| Redux Thunk Middleware Slides | N/A                                                                                                                     | [🖼️](https://drive.google.com/file/d/1CWDPOigoVDwZDc4iLEpJMJ7MN42cT3qI/view?usp=sharing) |
 
 Access Passcode: 7FV3&a&2
 
@@ -403,13 +403,11 @@ Additional Resources:
 
 #### Day 9 : Introduction to NodeJS
 
-
 | Topic         | Lecture              | Slides                                                                                   |
 | ------------- | -------------------- | ---------------------------------------------------------------------------------------- |
 | Intro to Node | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1ipobX-kGeBf7bW5cshE7Nx3PS3dwpY9z/view?usp=sharing) |
 | NPM           | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1HBf6oLbu5VIBfFM2P-a2A2FYmFaN_4W4/view?usp=sharing) |
 
-<!-- 
 Additional Resources:
 
 - [JavaScript Conference 2014: The Event Loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ&feature=youtu.be&t=676) <= _The entire video is recommended to understand Node's async implementation, but the core explanation begins around 11 minutes into the video_
@@ -418,7 +416,7 @@ Additional Resources:
 
 - [JavaScript Conference 2019: 10 Things I Regret About NodeJS by the creator of NodeJS](https://www.youtube.com/watch?v=M3BM9TB-8yA&vl=en)
 
-- [Express Codecademy Tutorial](https://www.codecademy.com/learn/learn-express) -->
+- [Express Codecademy Tutorial](https://www.codecademy.com/learn/learn-express)
 
 <!-- #### Day 10 : Introduction to Express
 
