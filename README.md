@@ -403,10 +403,12 @@ Additional Resources:
 
 #### Day 9 : Introduction to NodeJS
 
-| Topic         | Lecture              | Slides                                                                                   |
-| ------------- | -------------------- | ---------------------------------------------------------------------------------------- |
-| Intro to Node | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1ipobX-kGeBf7bW5cshE7Nx3PS3dwpY9z/view?usp=sharing) |
-| NPM           | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1HBf6oLbu5VIBfFM2P-a2A2FYmFaN_4W4/view?usp=sharing) |
+| Topic         | Lecture                                                                                                                 | Slides                                                                                   |
+| ------------- | ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| Intro to Node | 📺(https://us02web.zoom.us/rec/share/JVbl7ejg1ojY443SHZ5RvYLaAyqVN5AiTjzZs3VqNYf-mMkQ00GeHXdyCJaUFd6m.20tLihEr_5R314ql) | [🖼️](https://drive.google.com/file/d/1ipobX-kGeBf7bW5cshE7Nx3PS3dwpY9z/view?usp=sharing) |
+| NPM           | 📺                                                                                                                      | [🖼️](https://drive.google.com/file/d/1HBf6oLbu5VIBfFM2P-a2A2FYmFaN_4W4/view?usp=sharing) |
+
+Access Passcode: +?i0SyL.
 
 Additional Resources:
 
@@ -418,12 +420,11 @@ Additional Resources:
 
 - [Express Codecademy Tutorial](https://www.codecademy.com/learn/learn-express)
 
-<!-- #### Day 10 : Introduction to Express
+#### Day 10 : Introduction to Express
 
-| Topic                         | Lecture              | Slides                                                                                   |
-| ----------------------------- | -------------------- | ---------------------------------------------------------------------------------------- |
-| Intro to Express              | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/16awMgO3cPkabEpa08NZCaOjFH7J9E1Yg/view?usp=sharing) |
-
+| Topic            | Lecture              | Slides                                                                                   |
+| ---------------- | -------------------- | ---------------------------------------------------------------------------------------- |
+| Intro to Express | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/16awMgO3cPkabEpa08NZCaOjFH7J9E1Yg/view?usp=sharing) |
 
 </details>
 
