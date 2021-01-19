@@ -422,9 +422,11 @@ Additional Resources:
 
 #### Day 10 : Introduction to Express
 
-| Topic            | Lecture              | Slides                                                                                   |
-| ---------------- | -------------------- | ---------------------------------------------------------------------------------------- |
-| Intro to Express | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/16awMgO3cPkabEpa08NZCaOjFH7J9E1Yg/view?usp=sharing) |
+| Topic            | Lecture                                                                                                                  | Slides                                                                                   |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
+| Intro to Express | 📺(https://us02web.zoom.us/rec/share/dka5w4jSkWfLhy64ObChDk6K-njrWXwLXCh9IDlhtf5s_r0RAcWiksjggaJSDRAf.0RAppfUZDCKlfkbu)] | [🖼️](https://drive.google.com/file/d/16awMgO3cPkabEpa08NZCaOjFH7J9E1Yg/view?usp=sharing) |
+
+Access Passcode: T&R5mC0P
 
 </details>
 
