@@ -422,9 +422,9 @@ Additional Resources:
 
 #### Day 10 : Introduction to Express
 
-| Topic            | Lecture                                                                                                                  | Slides                                                                                   |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
-| Intro to Express | 📺(https://us02web.zoom.us/rec/share/dka5w4jSkWfLhy64ObChDk6K-njrWXwLXCh9IDlhtf5s_r0RAcWiksjggaJSDRAf.0RAppfUZDCKlfkbu)] | [🖼️](https://drive.google.com/file/d/16awMgO3cPkabEpa08NZCaOjFH7J9E1Yg/view?usp=sharing) |
+| Topic            | Lecture                                                                                                                   | Slides                                                                                   |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| Intro to Express | [📺](https://us02web.zoom.us/rec/share/dka5w4jSkWfLhy64ObChDk6K-njrWXwLXCh9IDlhtf5s_r0RAcWiksjggaJSDRAf.0RAppfUZDCKlfkbu) | [🖼️](https://drive.google.com/file/d/16awMgO3cPkabEpa08NZCaOjFH7J9E1Yg/view?usp=sharing) |
 
 Access Passcode: T&R5mC0P
 
@@ -438,11 +438,11 @@ Databases/Sequelize/PostgresSQL andCapstone Project Starts
 
 #### Day 11 : PostgreSQL/Sequelize I
 
-| Topic                      | Lecture              | Slides                                                                                   |
-| -------------------------- | -------------------- | ---------------------------------------------------------------------------------------- |
-| Intro to PostgresSQL Databases       | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1lrJMJQ6sIN9Xk0AImzOgTKkXh741VI3p/view?usp=sharing) |
-| PostgreSQL: Node.js Client | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1m-xlhm4QL93bxWvYsR0MVhF13a9USEXH/view)             |
-| Sequelize                  | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1aiuzts6wny4Wk0ipB_ohBk3CJzOmr65M/view?usp=sharing) |
+| Topic                          | Lecture              | Slides                                                                                   |
+| ------------------------------ | -------------------- | ---------------------------------------------------------------------------------------- |
+| Intro to PostgresSQL Databases | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1lrJMJQ6sIN9Xk0AImzOgTKkXh741VI3p/view?usp=sharing) |
+| PostgreSQL: Node.js Client     | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1m-xlhm4QL93bxWvYsR0MVhF13a9USEXH/view)             |
+| Sequelize                      | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1aiuzts6wny4Wk0ipB_ohBk3CJzOmr65M/view?usp=sharing) |
 
 - [Sequelize Querying and Associations: Part I](https://gist.github.com/ajLapid718/ca67efc0360c617e5eebb6f1342ae53e)
 - [Sequelize Querying and Associations: Part II](https://gist.github.com/ajLapid718/dfb48815a7472e9f6df09131bd0a7d49)
