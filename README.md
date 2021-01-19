@@ -436,11 +436,11 @@ Databases/Sequelize/PostgresSQL andCapstone Project Starts
 
 <details><summary>Click to open</summary>
 
-<!-- #### Day 11 : PostgreSQL/Sequelize I
+#### Day 11 : PostgreSQL/Sequelize I
 
 | Topic                      | Lecture              | Slides                                                                                   |
 | -------------------------- | -------------------- | ---------------------------------------------------------------------------------------- |
-| Intro to PostgresSQL       | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1lrJMJQ6sIN9Xk0AImzOgTKkXh741VI3p/view?usp=sharing) |
+| Intro to PostgresSQL Databases       | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1lrJMJQ6sIN9Xk0AImzOgTKkXh741VI3p/view?usp=sharing) |
 | PostgreSQL: Node.js Client | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1m-xlhm4QL93bxWvYsR0MVhF13a9USEXH/view)             |
 | Sequelize                  | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1aiuzts6wny4Wk0ipB_ohBk3CJzOmr65M/view?usp=sharing) |
 
@@ -451,15 +451,12 @@ Additional Resources:
 
 - [SQLBolt Tutorial](https://sqlbolt.com/)
 - [SQLZoo Tutorial](https://sqlzoo.net/)
-- [Tom Kelly Sequelize Docs](https://github.com/tmkelly28/sequelize-reference) -->
+- [Tom Kelly Sequelize Docs](https://github.com/tmkelly28/sequelize-reference)
 
 <!-- #### Day 12 : PostgreSQL/Sequelize II
 
 | Topic                              | Lecture              | Slides                                                                                   |
 | ---------------------------------- | -------------------- | ---------------------------------------------------------------------------------------- |
-| Intro to Databases                 | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1lrJMJQ6sIN9Xk0AImzOgTKkXh741VI3p/view?usp=sharing) |
-| PostgreSQL: Node.js Client         | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1m-xlhm4QL93bxWvYsR0MVhF13a9USEXH/view)             |
-| Node-Postgres                      | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1DG3bbl8Gs59g7k2UqTo6eP_9LyYaZPyu/view?usp=sharing) |
 | Intro To Schemas                   | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/16cL5H3i5Yo9S2GNDqQJrFOHfT9QZbOKI/view?usp=sharing) |
 | Introduction To ORMs               | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1uuGYZ-ag-NXMTLt1yp63mIdsGp_mYAWJ/view?usp=sharing) |
 | Rounding Out Express and Sequelize | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1X13dFSydJiMV1Xfg6a5qyrMfwJfvQQ6d/view?usp=sharing) | -->
