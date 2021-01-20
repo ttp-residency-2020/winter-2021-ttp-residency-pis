@@ -438,11 +438,13 @@ Databases/Sequelize/PostgresSQL andCapstone Project Starts
 
 #### Day 11 : PostgreSQL/Sequelize I
 
-| Topic                          | Lecture              | Slides                                                                                   |
-| ------------------------------ | -------------------- | ---------------------------------------------------------------------------------------- |
-| Intro to PostgresSQL Databases | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1lrJMJQ6sIN9Xk0AImzOgTKkXh741VI3p/view?usp=sharing) |
-| PostgreSQL: Node.js Client     | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1m-xlhm4QL93bxWvYsR0MVhF13a9USEXH/view)             |
-| Sequelize                      | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1aiuzts6wny4Wk0ipB_ohBk3CJzOmr65M/view?usp=sharing) |
+| Topic                          | Lecture                                                                                                                  | Slides                                                                                   |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
+| Intro to PostgresSQL Databases | [📺](https://us02web.zoom.us/rec/share/QNS5HHQvf4xxFiQd546rCwUVyTYip422jrOMhdpDtIvxDd424rCza_A5l0ngaXA.pIt0a8GaKJqp6A_2) | [🖼️](https://drive.google.com/file/d/1lrJMJQ6sIN9Xk0AImzOgTKkXh741VI3p/view?usp=sharing) |
+| PostgreSQL: Node.js Client     |                                                                                                                          | [🖼️](https://drive.google.com/file/d/1m-xlhm4QL93bxWvYsR0MVhF13a9USEXH/view)             |
+| Sequelize                      |                                                                                                                          | [🖼️](https://drive.google.com/file/d/1aiuzts6wny4Wk0ipB_ohBk3CJzOmr65M/view?usp=sharing) |
+
+Access Passcode: &d46%@F?
 
 - [Sequelize Querying and Associations: Part I](https://gist.github.com/ajLapid718/ca67efc0360c617e5eebb6f1342ae53e)
 - [Sequelize Querying and Associations: Part II](https://gist.github.com/ajLapid718/dfb48815a7472e9f6df09131bd0a7d49)
