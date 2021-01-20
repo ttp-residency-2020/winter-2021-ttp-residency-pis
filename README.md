@@ -455,13 +455,13 @@ Additional Resources:
 - [SQLZoo Tutorial](https://sqlzoo.net/)
 - [Tom Kelly Sequelize Docs](https://github.com/tmkelly28/sequelize-reference)
 
-<!-- #### Day 12 : PostgreSQL/Sequelize II
+#### Day 12 : PostgreSQL/Sequelize II
 
 | Topic                              | Lecture              | Slides                                                                                   |
 | ---------------------------------- | -------------------- | ---------------------------------------------------------------------------------------- |
 | Intro To Schemas                   | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/16cL5H3i5Yo9S2GNDqQJrFOHfT9QZbOKI/view?usp=sharing) |
 | Introduction To ORMs               | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1uuGYZ-ag-NXMTLt1yp63mIdsGp_mYAWJ/view?usp=sharing) |
-| Rounding Out Express and Sequelize | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1X13dFSydJiMV1Xfg6a5qyrMfwJfvQQ6d/view?usp=sharing) | -->
+| Rounding Out Express and Sequelize | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1X13dFSydJiMV1Xfg6a5qyrMfwJfvQQ6d/view?usp=sharing) |
 
 </details>
 
