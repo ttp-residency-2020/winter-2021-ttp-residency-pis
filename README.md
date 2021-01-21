@@ -463,6 +463,8 @@ Additional Resources:
 | Introduction To ORMs               | 📺[Insert Link Here]                                                                                                     | [🖼️](https://drive.google.com/file/d/1uuGYZ-ag-NXMTLt1yp63mIdsGp_mYAWJ/view?usp=sharing) |
 | Rounding Out Express and Sequelize | 📺[Insert Link Here]                                                                                                     | [🖼️](https://drive.google.com/file/d/1X13dFSydJiMV1Xfg6a5qyrMfwJfvQQ6d/view?usp=sharing) |
 
+Access Passcode: rY+e!24j
+
 </details>
 
 ### Week 4
