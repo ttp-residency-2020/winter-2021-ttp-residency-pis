@@ -457,11 +457,11 @@ Additional Resources:
 
 #### Day 12 : PostgreSQL/Sequelize II
 
-| Topic                              | Lecture              | Slides                                                                                   |
-| ---------------------------------- | -------------------- | ---------------------------------------------------------------------------------------- |
-| Intro To Schemas                   | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/16cL5H3i5Yo9S2GNDqQJrFOHfT9QZbOKI/view?usp=sharing) |
-| Introduction To ORMs               | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1uuGYZ-ag-NXMTLt1yp63mIdsGp_mYAWJ/view?usp=sharing) |
-| Rounding Out Express and Sequelize | 📺[Insert Link Here] | [🖼️](https://drive.google.com/file/d/1X13dFSydJiMV1Xfg6a5qyrMfwJfvQQ6d/view?usp=sharing) |
+| Topic                              | Lecture                                                                                                                  | Slides                                                                                   |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
+| Intro To Schemas                   | [📺](https://us02web.zoom.us/rec/share/U8vJyP4UMmhNTzbMGDecZBu22stXypBx2p1hy27QoL-98tLv_XCQeclAMJKDMF8.NlH6gPdCeeuM8ZdZ) | [🖼️](https://drive.google.com/file/d/16cL5H3i5Yo9S2GNDqQJrFOHfT9QZbOKI/view?usp=sharing) |
+| Introduction To ORMs               | 📺[Insert Link Here]                                                                                                     | [🖼️](https://drive.google.com/file/d/1uuGYZ-ag-NXMTLt1yp63mIdsGp_mYAWJ/view?usp=sharing) |
+| Rounding Out Express and Sequelize | 📺[Insert Link Here]                                                                                                     | [🖼️](https://drive.google.com/file/d/1X13dFSydJiMV1Xfg6a5qyrMfwJfvQQ6d/view?usp=sharing) |
 
 </details>
 
