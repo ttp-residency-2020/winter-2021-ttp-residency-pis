@@ -465,6 +465,13 @@ Additional Resources:
 
 Access Passcode: rY+e!24j
 
+#### Day 13 : CRUD APP
+
+CRUD Kickoff and Review Session with Dino
+[📺](https://us02web.zoom.us/rec/share/dwwmxPhpeQ14AgTD3NgaYwioTZiBJDi450bJGCOAZG0NhOHm4k_8Wyhg3qgEAxvu.IXeRg7Jz6f7yTXvK)
+
+Access Passcode: !s@0k89f
+
 </details>
 
 ### Week 4
