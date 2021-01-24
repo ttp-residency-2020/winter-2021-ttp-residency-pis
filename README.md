@@ -472,6 +472,13 @@ CRUD Kickoff and Review Session with Dino
 
 Access Passcode: !s@0k89f
 
+#### Day 14 : CRUD APP II
+
+Review Session with Dino-mite!
+[📺](https://us02web.zoom.us/rec/share/kgTYrpw-doEc3RA0jZ0BxngON5FVbwC_m6IRU_mUSmIfJ0eo8VfCJjkVn5bjMhAx.vn49CWNNY84a7JDe)
+
+Access Passcode: FqtC.5c*
+
 </details>
 
 ### Week 4
