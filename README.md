@@ -1,3 +1,4 @@
+- (www/cooltext401039616227493.png)
 # 📚 Tech Talent Pipeline Residency: Winter 2022 Bootcamp
 
 ## :scroll: Course Information
@@ -10,7 +11,7 @@
   - Dates: January 3, 2022(Monday) - January 28, 2022(Friday)
 
 - [:movie_camera: Zoom Link](https://us02web.zoom.us/j/83101880157?pwd=L0d5ZHhMazcya3JwTTJGTGRaRCtHQT09)
-- [:computer: Slack Workspace](https://app.slack.com/client/T0149RH248J/C01433YF022)
+- [:computer: Discord](https://app.slack.com/client/T0149RH248J/C01433YF022)
 
 </details>
 
