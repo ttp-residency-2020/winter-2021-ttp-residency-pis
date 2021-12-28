@@ -1,6 +1,5 @@
-![...](./www/cooltext401039616227493.png)
+![TTP](./www/TTP_Logo.png)
 
-(www/cooltext401039616227493.png)
 # 📚 Tech Talent Pipeline Residency: Winter 2022 Bootcamp
 
 ## :scroll: Course Information
