@@ -12,7 +12,7 @@
   - Dates: January 3, 2022(Monday) - January 28, 2022(Friday)
 
 - [:movie_camera: Zoom Link](https://us02web.zoom.us/j/83101880157?pwd=L0d5ZHhMazcya3JwTTJGTGRaRCtHQT09)
-- [:table: Slack](https://app.slack.com/client/T0149RH248J/C01433YF022)
+- [:apple: Slack](https://app.slack.com/client/T0149RH248J/C01433YF022)
 - [:computer: Discord](https://discord.gg/EXfsyut6)
 
 
