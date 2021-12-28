@@ -100,7 +100,7 @@ Class Session 5: Introduction to External API Requests and ReactJS | (01/07/2022
 
 ## Week2
 
-[comment]: <> (Class Session 6: Introduction to External API Requests and ReactJS Continued | (01/11/2021))
+[//]: # (Class Session 6: Introduction to External API Requests and ReactJS Continued | (01/11/2021))
 
 [comment]: <> (Class Session 7: React Router and Client-Side Routing in a SPA | (01/12/2021))
 
