@@ -34,43 +34,43 @@
 
 <details><summary>Click to Expand</summary>
 
-### Lead Instructor : Depak Borhara(He/Him)
+### Lead Instructor : Ariel Avshalom(He/Him)
 
-- [:e-mail: Email](depakborhara@gmail.com)
-- [:card_file_box: LinkedIn](https://www.linkedin.com/in/depakborhara)
-- [:octocat: Github](http://github.com/DBorhara)
+- [:e-mail: Email](csciprofessor+ttp@gmail.com)
+- [:card_file_box: LinkedIn](https://www.linkedin.com/in/arielavshalom)
+- [:octocat: Github](http://github.com/ArielAvshalom)
 
-### Lead TA: Konstantinos Houtas
+### Lead TA: ...fill in...
 
-- [:e-mail: Email](khoutas98@gmail.com)
-- [:card_file_box: LinkedIn](https://www.linkedin.com/in/khoutas/)
-- [:octocat: Github](https://github.com/Reyder95)
+- [:e-mail: Email](someone@gmail.com)
+- [:card_file_box: LinkedIn](https://www.linkedin.com/in/someone/)
+- [:octocat: Github](https://github.com/someone)
 
 ### Teaching Assistants
 
-#### Bashir Alhanshali
+#### ...fill in...
 
-- [:e-mail: Email](bashiralhanshali@gmail.com)
-- [:card_file_box: LinkedIn](https://www.linkedin.com/in/balhanshali/)
-- [:octocat: Github](https://github.com/bashir2017)
+- [:e-mail: Email](someone@gmail.com)
+- [:card_file_box: LinkedIn](https://www.linkedin.com/in/someone/)
+- [:octocat: Github](https://github.com/someone)
 
-#### Emmanuel Kandilas (Manny) (He/Him)
+#### ...fill in...
 
-- [:e-mail: Email](Ekandilas@gmail.com)
-- [:card_file_box: LinkedIn](https://www.linkedin.com/in/manny-kan-code/)
-- [:octocat: Github](https://github.com/E-kandilas)
+- [:e-mail: Email](someone@gmail.com)
+- [:card_file_box: LinkedIn](https://www.linkedin.com/in/someone/)
+- [:octocat: Github](https://github.com/someone)
 
-#### Temurbek Sabirov
+#### ...fill in...
 
-- [:e-mail: Email](temurbeksab98@gmail.com)
-- [:card_file_box: LinkedIn](https://www.linkedin.com/in/temursabirov/)
-- [:octocat: Github](https://github.com/Temurbekk)
+- [:e-mail: Email](someone@gmail.com)
+- [:card_file_box: LinkedIn](https://www.linkedin.com/in/someone/)
+- [:octocat: Github](https://github.com/someone)
 
-#### Sagar Shrestha
+#### ...fill in...
 
-- [:e-mail: Email](sg28r8@gmail.com)
-- [:card_file_box: LinkedIn](https://www.linkedin.com/in/sagr2848/)
-- [:octocat: Github](https://github.com/sgr2848)
+- [:e-mail: Email](someone@gmail.com)
+- [:card_file_box: LinkedIn](https://www.linkedin.com/in/someone/)
+- [:octocat: Github](https://github.com/someone)
 
 ### Program Manager: Allan James S. Lapid
 
