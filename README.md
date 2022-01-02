@@ -1,5 +1,9 @@
 ![TTP](./www/TTP_Logo_1.png)
 
+- https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+- https://github.com/jlord/git-it-electron
+- https://github.com/Gazler/githug
+
 # 📚 Tech Talent Pipeline Residency: Winter 2022 Bootcamp
 
 ## :scroll: Course Information
