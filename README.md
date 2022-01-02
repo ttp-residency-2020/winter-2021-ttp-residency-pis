@@ -15,9 +15,9 @@
   - Monday - Friday, 10AM - 4PM
   - Dates: January 3, 2022(Monday) - January 28, 2022(Friday)
 
-- [:movie_camera: Zoom Link](https://us02web.zoom.us/j/83101880157?pwd=L0d5ZHhMazcya3JwTTJGTGRaRCtHQT09)
-- [:apple: Slack](https://app.slack.com/client/T0149RH248J/C01433YF022)
-- [:computer: Discord](https://discord.gg/EXfsyut6)
+- [:movie_camera: Zoom Link](https://us02web.zoom.us/j/85857451767?pwd=SVlZbG5UYkhzb0tOaXIzSk9ONTUwdz09)
+- [:computer: Slack](https://cunyttp.slack.com/archives/C02N91RHGM9)
+- [:notebook: OneNote](https://1drv.ms/u/s!An3mqqGZuSCthdMUP8u8X3kS06rYhg)
 
 
 </details>
