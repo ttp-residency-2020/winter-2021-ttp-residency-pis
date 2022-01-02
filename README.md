@@ -1,9 +1,5 @@
 ![TTP](./www/TTP_Logo_1.png)
 
-- https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
-- https://github.com/jlord/git-it-electron
-- https://github.com/Gazler/githug
-
 # 📚 Tech Talent Pipeline Residency: Winter 2022 Bootcamp
 
 ## :scroll: Course Information
@@ -18,9 +14,6 @@
 - [:movie_camera: Zoom Link](https://us02web.zoom.us/j/85857451767?pwd=SVlZbG5UYkhzb0tOaXIzSk9ONTUwdz09)
 - [:computer: Slack](https://cunyttp.slack.com/archives/C02N91RHGM9)
 - [:notebook: OneNote](https://1drv.ms/u/s!An3mqqGZuSCthdMUP8u8X3kS06rYhg)
-
-<a href="http://example.com/" target="_blank">Hello, world!</a>
-
 
 
 </details>
@@ -151,15 +144,29 @@ Class Session 5: Introduction to External API Requests and ReactJS | (01/07/2022
 
 ### Week 1
 
-Welcome! We will be going over alot this week! This week includes git workflow, javascript, The DOM, and React!
+Welcome! We will be going over alot this week! This week includes tailwind, git workflow, javascript, The DOM, and React!
 
 <details><summary>Click to open</summary>
 
-#### Day 1: Pilot Assessment and Collaborative Workflow I
+#### Day 1: Pilot Assessment and Tailwind
+
+Goals:
+  - try your hand at an assessment! You're not expected to be able to answer all of the questions, but by the end of the bootcamp, most of it should be doable!
+
+  - Orientation: what we'll learn and why over the next month
+
+  - Play around with tailwind (a css framework)
+
+Homeowrk
+
+- https://github.com/jlord/git-it-electron
+- https://github.com/Gazler/githug
 
 #### Day 2: Onboarding, Git/Github/Collaborative Software Development (Pair Programming)
 
 Pre-Readings:
+
+- [HubSpot's Github intro](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 
 - [Git Codecademy Tutorial](https://www.codecademy.com/learn/learn-git)
 
