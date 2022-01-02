@@ -48,11 +48,11 @@
 
 ### Teaching Assistants
 
-#### ...fill in...
+#### Ariel Benzur
 
 - [:e-mail: Email](someone@gmail.com)
 - [:card_file_box: LinkedIn](https://www.linkedin.com/in/someone/)
-- [:octocat: Github](https://github.com/someone)
+- [:octocat: Github](https://github.com/ArielBenz171)
 
 #### ...fill in...
 
