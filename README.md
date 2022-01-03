@@ -165,9 +165,9 @@ Goals:
 
 
 
-| Topic           | Lecture                                                                                                                         | Slides                                                                                                     |
-| ----------      | -------------------------------------------------------------------------------------------------------------------------       | ---------------------------------------------------------------------------------------------------------- |
-| CSS Frameworks  | [📺](example.com) | [🖼️](https://1drv.ms/u/s!An3mqqGZuSCthdMdVebOdy9JsowCfg?e=Aoiwsd) | 
+| Topic           | Lecture                                                 | Slides                                                                |
+| ----------      | -------------------------------------------------       | -------------------------------------------------------------------   |
+| CSS Frameworks  | [📺](example.com)                                       | [🖼️](https://1drv.ms/u/s!An3mqqGZuSCthdMdVebOdy9JsowCfg?e=Aoiwsd)    | 
 
 Assignment(s):
 This assignment is to get your feet wet, there is no submission required.
