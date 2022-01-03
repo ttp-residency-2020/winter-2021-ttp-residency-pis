@@ -335,6 +335,8 @@ Group Project #1:
 
 </details>
 
+![Construction](./www/Under_Construction.png)
+
 ### Week 2
 
 This week we will finish up with React, and go into React-Router, State Management with Redux, and NodeJS.
