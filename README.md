@@ -88,7 +88,7 @@ Pre-Bootcamp Material
 
 ## Week 1
 
-Class Session 1: Pilot Assessment and Collaborative Workflow I | (01/03/2022)
+Class Session 1: Pilot Assessment and Tailwind | (01/03/2022)
 
 Class Session 2: Collaborative Workflow I and Introduction to JS | (01/04/2022)
 
@@ -157,7 +157,12 @@ Goals:
 
   - Play around with tailwind (a css framework)
 
-Homeowrk
+Assignment(s):
+This assignment is to get your feet wet, there is no submission required.
+
+GitHub is one of the most popular collaboration hosting platforms out there. In order to familiarize yourself with it, either install git-it-electron (first link) or run githug (second link) with ruby.
+
+Then play the game available and learn some practical github (and git) in a fun and interactive way!
 
 - https://github.com/jlord/git-it-electron
 - https://github.com/Gazler/githug
