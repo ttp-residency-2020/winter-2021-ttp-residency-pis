@@ -40,9 +40,9 @@
 - [:card_file_box: LinkedIn](https://www.linkedin.com/in/arielavshalom)
 - [:octocat: Github](http://github.com/ArielAvshalom)
 
-### Lead TA: ...fill in...
+### Lead TA: Tenzin Jamyang
 
-- [:e-mail: Email](someone@gmail.com)
+- [:e-mail: Email](jamyangu@gmail.com)
 - [:card_file_box: LinkedIn](https://www.linkedin.com/in/someone/)
 - [:octocat: Github](https://github.com/someone)
 
@@ -50,25 +50,31 @@
 
 #### Ariel Benzur
 
-- [:e-mail: Email](someone@gmail.com)
+- [:e-mail: Email](aab171@outlook.com)
 - [:card_file_box: LinkedIn](https://www.linkedin.com/in/someone/)
 - [:octocat: Github](https://github.com/ArielBenz171)
 
-#### ...fill in...
+#### Yasmine Kamel
 
-- [:e-mail: Email](someone@gmail.com)
+- [:e-mail: Email](yasminecodes@gmail.com)
 - [:card_file_box: LinkedIn](https://www.linkedin.com/in/someone/)
 - [:octocat: Github](https://github.com/someone)
 
-#### ...fill in...
+#### Victor Li
 
-- [:e-mail: Email](someone@gmail.com)
+- [:e-mail: Email](vliboolean1010@gmail.com)
 - [:card_file_box: LinkedIn](https://www.linkedin.com/in/someone/)
 - [:octocat: Github](https://github.com/someone)
 
-#### ...fill in...
+#### Abi Scholz
 
-- [:e-mail: Email](someone@gmail.com)
+- [:e-mail: Email](abi.scholz@gmail.com)
+- [:card_file_box: LinkedIn](https://www.linkedin.com/in/someone/)
+- [:octocat: Github](https://github.com/someone)
+
+### Mohammed Shafee
+
+- [:e-mail: Email](m.shafee1993@gmail.com)
 - [:card_file_box: LinkedIn](https://www.linkedin.com/in/someone/)
 - [:octocat: Github](https://github.com/someone)
 
