@@ -43,40 +43,40 @@
 ### Lead TA: Tenzin Jamyang
 
 - [:e-mail: Email](jamyangu@gmail.com)
-- [:card_file_box: LinkedIn](https://www.linkedin.com/in/someone/)
-- [:octocat: Github](https://github.com/someone)
+- [:card_file_box: LinkedIn](https://www.linkedin.com/in/tenzinjamyang/)
+- [:octocat: Github](http://github.com/TenzinJam)
 
 ### Teaching Assistants
 
 #### Ariel Benzur
 
 - [:e-mail: Email](aab171@outlook.com)
-- [:card_file_box: LinkedIn](https://www.linkedin.com/in/someone/)
+- [:card_file_box: LinkedIn](https://www.linkedin.com/in/ariel-benzur-01072001/)
 - [:octocat: Github](https://github.com/ArielBenz171)
 
 #### Yasmine Kamel
 
 - [:e-mail: Email](yasminecodes@gmail.com)
-- [:card_file_box: LinkedIn](https://www.linkedin.com/in/someone/)
-- [:octocat: Github](https://github.com/someone)
+- [:card_file_box: LinkedIn](https://www.linkedin.com/in/yasmine-kamel/)
+- [:octocat: Github](https://github.com/YasmineCodes)
 
 #### Victor Li
 
 - [:e-mail: Email](vliboolean1010@gmail.com)
-- [:card_file_box: LinkedIn](https://www.linkedin.com/in/someone/)
-- [:octocat: Github](https://github.com/someone)
+- [:card_file_box: LinkedIn](https://www.linkedin.com/in/victor-li-b45bab148/)
+- [:octocat: Github](https://github.com/victorFFFF)
 
 #### Abi Scholz
 
 - [:e-mail: Email](abi.scholz@gmail.com)
-- [:card_file_box: LinkedIn](https://www.linkedin.com/in/someone/)
-- [:octocat: Github](https://github.com/someone)
+- [:card_file_box: LinkedIn](https://www.linkedin.com/in/abischolz/)
+- [:octocat: Github](https://github.com/abischolz)
 
 ### Mohammed Shafee
 
 - [:e-mail: Email](m.shafee1993@gmail.com)
-- [:card_file_box: LinkedIn](https://www.linkedin.com/in/someone/)
-- [:octocat: Github](https://github.com/someone)
+- [:card_file_box: LinkedIn](https://www.linkedin.com/in/mohamed-shafee1/)
+- [:octocat: Github](https://github.com/Moe82)
 
 ### Program Manager: Allan James S. Lapid
 
