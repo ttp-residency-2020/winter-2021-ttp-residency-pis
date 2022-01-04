@@ -155,7 +155,7 @@ Welcome! We will be going over alot this week! This week includes tailwind, git 
 <details><summary>Click to open</summary>
 
 #### Day 1: Pilot Assessment and Tailwind
-
+<details><summary>Click to Expand</summary>
 Goals:
   - try your hand at an assessment! You're not expected to be able to answer all of the questions, but by the end of the bootcamp, most of it should be doable!
 
@@ -178,7 +178,7 @@ Then play the game available and learn some practical github (and git) in a fun 
 
 - https://github.com/jlord/git-it-electron
 - https://github.com/Gazler/githug
-
+</details>
 #### Day 2: Onboarding, Git/Github/Collaborative Software Development (Pair Programming)
 
 Pre-Readings:
