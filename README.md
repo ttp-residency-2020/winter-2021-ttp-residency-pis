@@ -183,9 +183,10 @@ Then play the game available and learn some practical github (and git) in a fun 
 
 </details>
 
+#### Day 2: Onboarding, Git/Github/Collaborative Software Development (Pair Programming)
+
 <details><summary>Click to Expand</summary>
 
-#### Day 2: Onboarding, Git/Github/Collaborative Software Development (Pair Programming)
 
 Pre-Readings:
 
