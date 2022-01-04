@@ -155,7 +155,9 @@ Welcome! We will be going over alot this week! This week includes tailwind, git 
 <details><summary>Click to open</summary>
 
 #### Day 1: Pilot Assessment and Tailwind
+
 <details><summary>Click to Expand</summary>
+
 Goals:
   - try your hand at an assessment! You're not expected to be able to answer all of the questions, but by the end of the bootcamp, most of it should be doable!
 
@@ -178,7 +180,11 @@ Then play the game available and learn some practical github (and git) in a fun 
 
 - https://github.com/jlord/git-it-electron
 - https://github.com/Gazler/githug
+
 </details>
+
+<details><summary>Click to Expand</summary>
+
 #### Day 2: Onboarding, Git/Github/Collaborative Software Development (Pair Programming)
 
 Pre-Readings:
@@ -220,7 +226,11 @@ Git Cheat Sheets:
 - https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
 - https://www.git-tower.com/learn/cheat-sheets/vcs-workflow
 
+</details>
+
 #### Day 3: Javascript Basics Overview
+
+<details><summary>Click to Expand</summary>
 
 Pre-Readings:
 
@@ -246,7 +256,11 @@ Additional Resources:
 - [Repl Link](https://repl.it/@DBorhara/TTPWiinter2021JS#index.js)
 - [Awwwards Site](https://www.awwwards.com/websites/reactjsdah/)
 
+</details>
+
 #### Day 4 : DOM Manipulation
+
+<details><summary>Click to Expand</summary>
 
 Pre-Readings:
 
@@ -282,7 +296,11 @@ Additional Resource:
 
 - [NodeList Docs](https://developer.mozilla.org/en-US/docs/Web/API/NodeList)
 
+</details>
+
 #### Day 5 : Introduction to React
+
+<details><summary>Click to Expand</summary>
 
 Pre-Readings:
 
@@ -338,6 +356,8 @@ Additional Resources:
 
 Group Project #1:
 [Fullstack CRUD Application](https://docs.google.com/document/d/1tKiSJiPBnQTKzcUehzOYwn1Dv5V4uYO4-rTO0t3rQxM/edit#heading=h.7nze431u3zaf)
+
+</details>
 
 </details>
 
