@@ -203,8 +203,6 @@ Pre-Readings:
 | Git Part 1 | [📺](https://drive.google.com/file/d/1GMIl7Vp4z5X9LkC35BqzpwmFWxOhuBw4/view?usp=sharing) | [🖼️](https://docs.google.com/presentation/d/12tgnThkuKGHpbxZEv2RTWOTLpViL1O3hcHEGNJv9Wzo/edit?usp=sharing) |
 | Git Part 2 | [📺](https://drive.google.com/file/d/1G2xBB109gbvIDMrsMc2_49f4Xm5swIyE/view?usp=sharing) | [🖼️](https://docs.google.com/presentation/d/1Qkz1Z83P2b2EUFDrMN8L1X7BcMwZzzkSqCKCI8INH78/edit?usp=sharing) |
 
-Passcode: @3Bh2fA6
-
 Assignment(s):
 
 - [Collaboration Workshop Assignment #1](https://docs.google.com/document/d/1Yp10nGa09vAWzIlCxmkayuEf2RhKN0UhakKl_Zgplak)
