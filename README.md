@@ -228,6 +228,12 @@ Git Cheat Sheets:
 - https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
 - https://www.git-tower.com/learn/cheat-sheets/vcs-workflow
 
+Git Tutorial Videos:
+
+- https://www.youtube.com/watch?v=HVsySz-h9r4&t=443s&ab_channel=CoreySchafer
+- https://www.youtube.com/watch?v=SWYqp7iY_Tc&ab_channel=TraversyMedia
+
+
 </details>
 
 #### Day 3: Javascript Basics Overview
