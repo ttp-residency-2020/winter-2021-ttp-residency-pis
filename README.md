@@ -230,6 +230,7 @@ Git Tutorial Videos:
 
 - https://www.youtube.com/watch?v=HVsySz-h9r4&t=443s&ab_channel=CoreySchafer
 - https://www.youtube.com/watch?v=SWYqp7iY_Tc&ab_channel=TraversyMedia
+- [Merge Conflicts](https://www.youtube.com/watch?v=XX-Kct0PfFc&ab_channel=TheNetNinja)
 
 
 </details>
