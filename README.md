@@ -208,6 +208,7 @@ Passcode: @3Bh2fA6
 Assignment(s):
 
 - [Collaboration Workshop Assignment #1](https://docs.google.com/document/d/1Yp10nGa09vAWzIlCxmkayuEf2RhKN0UhakKl_Zgplak)
+- [About Students Assignment 1.5](https://1drv.ms/w/s!An3mqqGZuSCthdMgVlSlgbpK_I6Xww?e=pFgRBe)
 
 Additional Resources:
 
