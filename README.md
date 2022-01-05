@@ -198,10 +198,10 @@ Pre-Readings:
 
 - [Advanced Git Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows)
 
-| Topic      | Lecture                                                                                                                   | Slides                                                                                                     |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| Git Part 1 | [📺](example.com) | [🖼️](https://docs.google.com/presentation/d/12tgnThkuKGHpbxZEv2RTWOTLpViL1O3hcHEGNJv9Wzo/edit?usp=sharing) |
-| Git Part 2 |                                                                                                                           | [🖼️](https://docs.google.com/presentation/d/1Qkz1Z83P2b2EUFDrMN8L1X7BcMwZzzkSqCKCI8INH78/edit?usp=sharing) |
+| Topic      | Lecture                                                           | Slides                                                                                                     |
+| ---------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| Git Part 1 | [📺](https://drive.google.com/file/d/1GMIl7Vp4z5X9LkC35BqzpwmFWxOhuBw4/view?usp=sharing) | [🖼️](https://docs.google.com/presentation/d/12tgnThkuKGHpbxZEv2RTWOTLpViL1O3hcHEGNJv9Wzo/edit?usp=sharing) |
+| Git Part 2 | [📺](https://drive.google.com/file/d/1G2xBB109gbvIDMrsMc2_49f4Xm5swIyE/view?usp=sharing) | [🖼️](https://docs.google.com/presentation/d/1Qkz1Z83P2b2EUFDrMN8L1X7BcMwZzzkSqCKCI8INH78/edit?usp=sharing) |
 
 Passcode: @3Bh2fA6
 
