@@ -303,6 +303,14 @@ Additional Resource:
 
 - [NodeList Docs](https://developer.mozilla.org/en-US/docs/Web/API/NodeList)
 
+Useful video series on the DOM:
+
+- [Part 1](https://www.youtube.com/watch?v=l-0nPnSvbX8)
+
+- [Part 2](https://www.youtube.com/watch?v=8LWQNnVAMh4)
+
+- [Part 3](https://www.youtube.com/watch?v=QE1YQnhntgw)
+
 </details>
 
 #### Day 5 : Introduction to React
