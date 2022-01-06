@@ -252,7 +252,7 @@ Pre-Readings:
 | Javascript!      | [📺](https://us02web.zoom.us/rec/share/NdBu6n2oZJ50kXdVR7OlQr931xvgCfLV5jYpWax3LYhwT6WgwHdfg-lgwFAKVuI.hXnSF2Z8wKxZrN7I) | [🖼️](https://drive.google.com/file/d/1JL2pjlW0np5sxY8uKLQdU_W8vd3PPXdM/view?usp=sharing) |
 | More Javascript! |                                                                                                                          | [🖼️](https://drive.google.com/file/d/1RAYPYLNmtDRqLy1bBFuDxpqsiOnYOpRg/view?usp=sharing) |
 
-Passcode : c?54QKRA
+[TAs JavaScript Examples](https://github.com/ArielAvshalom/JavaScript-Examples)
 
 Assignment(s):
 
