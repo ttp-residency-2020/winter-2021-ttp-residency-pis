@@ -284,7 +284,6 @@ Pre-Readings:
 | The DOM | [📺](https://youtu.be/tCEd2o-3n8g) | [🖼️](https://docs.google.com/presentation/d/1TjI1htHMMbvmoN0A4RcgepSKP-AJ-z08XzVXWD_ZBOk/edit?usp=sharing) |
 | JS OOP  | [📺](https://youtu.be/X3RorjoUiiw) | [:desktop_computer:](https://github.com/tenzinjam/oopinjs)
 
-passcode : HCVHC^Z2
 
 Assignment(s):
 
