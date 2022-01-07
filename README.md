@@ -279,10 +279,10 @@ Pre-Readings:
 
 - [A Series of DOM Slides](https://www.teaching-materials.org/jsweb/slides/dom#/)
 
-| Topic   | Lecture                                                                                                                   | Slides                                                                                                     |
-| ------- | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| Topic   | Lecture   | Slides/Repo  |
+| ------- | ----------------- | ---------------------------------------------------------------------------------------------------------- |
 | The DOM | [📺](https://youtu.be/tCEd2o-3n8g) | [🖼️](https://docs.google.com/presentation/d/1TjI1htHMMbvmoN0A4RcgepSKP-AJ-z08XzVXWD_ZBOk/edit?usp=sharing) |
-| JS OOP  | [📺](https://youtu.be/X3RorjoUiiw) | [:GitHub:](https://github.com/tenzinjam/oopinjs)
+| JS OOP  | [📺](https://youtu.be/X3RorjoUiiw) | [:desktop_computer:](https://github.com/tenzinjam/oopinjs)
 
 passcode : HCVHC^Z2
 
