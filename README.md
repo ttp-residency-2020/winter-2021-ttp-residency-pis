@@ -249,8 +249,8 @@ Pre-Readings:
 
 | Topic            | Lecture                                                                                                                  | Slides                                                                                   |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
-| Javascript!      | [📺](https://us02web.zoom.us/rec/share/NdBu6n2oZJ50kXdVR7OlQr931xvgCfLV5jYpWax3LYhwT6WgwHdfg-lgwFAKVuI.hXnSF2Z8wKxZrN7I) | [🖼️](https://drive.google.com/file/d/1JL2pjlW0np5sxY8uKLQdU_W8vd3PPXdM/view?usp=sharing) |
-| More Javascript! |                                                                                                                          | [🖼️](https://drive.google.com/file/d/1RAYPYLNmtDRqLy1bBFuDxpqsiOnYOpRg/view?usp=sharing) |
+| Javascript!      | [📺](https://youtu.be/QMrNICSDqyo) | [🖼️](https://drive.google.com/file/d/1JL2pjlW0np5sxY8uKLQdU_W8vd3PPXdM/view?usp=sharing) |
+| More Javascript! |                                                                                                                          | [🖼️](https://youtu.be/WVKrV0Uz79U) |
 
 [TAs JavaScript Examples](https://github.com/ArielAvshalom/JavaScript-Examples)
 
@@ -281,7 +281,8 @@ Pre-Readings:
 
 | Topic   | Lecture                                                                                                                   | Slides                                                                                                     |
 | ------- | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| The DOM | [📺](https://us02web.zoom.us/rec/share/bfcl4nSHtS5Be1nisiiLzaf6yX7XDbCxPZgHumRtmhJhTeWm8o0Y5hQtAcURDor1.-hOTAZM0HDmkT-0Y) | [🖼️](https://docs.google.com/presentation/d/1TjI1htHMMbvmoN0A4RcgepSKP-AJ-z08XzVXWD_ZBOk/edit?usp=sharing) |
+| The DOM | [📺](https://youtu.be/tCEd2o-3n8g) | [🖼️](https://docs.google.com/presentation/d/1TjI1htHMMbvmoN0A4RcgepSKP-AJ-z08XzVXWD_ZBOk/edit?usp=sharing) |
+| JS OOP  | [📺](https://youtu.be/X3RorjoUiiw) | [:web:](https://github.com/tenzinjam/oopinjs)
 
 passcode : HCVHC^Z2
 
