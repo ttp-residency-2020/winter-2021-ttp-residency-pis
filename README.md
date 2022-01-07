@@ -250,7 +250,7 @@ Pre-Readings:
 | Topic            | Lecture                                                                                                                  | Slides                                                                                   |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
 | Javascript!      | [📺](https://youtu.be/QMrNICSDqyo) | [🖼️](https://drive.google.com/file/d/1JL2pjlW0np5sxY8uKLQdU_W8vd3PPXdM/view?usp=sharing) |
-| More Javascript! |                                                                                                                          | [🖼️](https://youtu.be/WVKrV0Uz79U) |
+| More Javascript! | [📺](https://youtu.be/WVKrV0Uz79U) | [🖼️](https://drive.google.com/file/d/1RAYPYLNmtDRqLy1bBFuDxpqsiOnYOpRg/view?usp=sharing) |
 
 [TAs JavaScript Examples](https://github.com/ArielAvshalom/JavaScript-Examples)
 
@@ -282,7 +282,7 @@ Pre-Readings:
 | Topic   | Lecture                                                                                                                   | Slides                                                                                                     |
 | ------- | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
 | The DOM | [📺](https://youtu.be/tCEd2o-3n8g) | [🖼️](https://docs.google.com/presentation/d/1TjI1htHMMbvmoN0A4RcgepSKP-AJ-z08XzVXWD_ZBOk/edit?usp=sharing) |
-| JS OOP  | [📺](https://youtu.be/X3RorjoUiiw) | [:web:](https://github.com/tenzinjam/oopinjs)
+| JS OOP  | [📺](https://youtu.be/X3RorjoUiiw) | [:GitHub:](https://github.com/tenzinjam/oopinjs)
 
 passcode : HCVHC^Z2
 
