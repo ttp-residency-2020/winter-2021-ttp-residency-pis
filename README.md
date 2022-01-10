@@ -382,7 +382,6 @@ Group Project #1:
 
 
 
-![Construction](./www/Under_Construction.png)
 
 ### Week 2
 
@@ -507,6 +506,9 @@ Additional Resources:
 Access Passcode: T&R5mC0P
 
 </details>
+
+![Construction](./www/Under_Construction.png)
+
 
 ### Week 3
 
