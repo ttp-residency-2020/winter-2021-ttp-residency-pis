@@ -408,6 +408,8 @@ Pre-Readings:
 
 Access Passcode: w.4@7Tc=
 
+[Functional React Code](https://github.com/ArielAvshalom/reactfunctions)
+
 
 #### Day 7 : React Router and Client-Side Routing In a Single-Page-Application
 
