@@ -106,11 +106,11 @@ Class Session 5: Introduction to External API Requests and ReactJS | (01/07/2022
 
 ## Week2
 
-Class Session 6: Introduction to External API Requests and ReactJS Continued | (01/11/2021)
+Class Session 6: Introduction to External API Requests and in-depth ReactJS classes and functions | (01/10/2021)
 
-Class Session 7: React Router and Client-Side Routing in a SPA | (01/12/2021)
+Class Session 7: APIs, JSon, Hooks, Promises and Async | (01/12/2021)
 
-Class Session 8: State Management with Redux and React-Redux | (01/13/2021)
+Class Session 8: React Router and React Context | (01/13/2021)
 
 Class Session 9: Introduction to NodeJS | (01/14/2021))
 
@@ -118,13 +118,13 @@ Class Session 10: Introduction to Express | (01/15/2021))
 
 ## Week 3
 
-[comment]: # "Class Session 11: PostgreSQL/Sequelize I| (01/19/2021))"
+Class Session 11: PostgreSQL/Sequelize I| (01/18/2021))
 
-[comment]: # "Class Session 12: PostgreSQL/Sequelize II| (01/20/2021))"
+[comment]: # "Class Session 12: PostgreSQL/Sequelize II| (01/19/2021))"
 
-[comment]: # "Class Session 13: CRUD App I | (01/21/2021))"
+[comment]: # "Class Session 13: CRUD App I | (01/20/2021))"
 
-[comment]: # "Class Session 14: CRUD App II | (01/22/2021))"
+[comment]: # "Class Session 14: CRUD App II | (01/21/2021))"
 
 ## Week 4
 
