@@ -351,7 +351,7 @@ Pre-Readings:
 
 | Topic   | Lecture                                                                                                                   | Slides                                                                                                                   |
 | ------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| ReactJS | [📺](https://us02web.zoom.us/rec/share/SeaNRJEgq0CZxRnL9eTfItbWOZDI8f5y8wIBNzD5dX7VHVKpNCFHl5r6f4tya9KS.8CPd0mTNhXNy4Dq3) | [🖼️](https://docs.google.com/presentation/d/1ztwgOYekXjr0c58Le8tIWwEcIuwYYLz-9XnLh9NoPB8/edit#slide=id.gb4930cdae2_1_32) |
+| ReactJS | [📺](https://youtu.be/m1aeRId3yX0) | [🖼️](https://docs.google.com/presentation/d/1ztwgOYekXjr0c58Le8tIWwEcIuwYYLz-9XnLh9NoPB8/edit#slide=id.gb4930cdae2_1_32) |
 
 Passcode: yb20gK!7
 
@@ -401,8 +401,8 @@ Pre-Readings:
 
 | Topic                  | Lecture                                                                                                                 | Slides                                                                                   |
 | ---------------------- | ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| React Events / Forms   | 📺(https://us02web.zoom.us/rec/share/5c9eVBsfIFFwRKmD_gvAZ6ailIZTc-ZJ-YP19QW5e1jbB5zbY5aayukcNtCPfk9W._1mv1XuUdIu2dbQ0) | [🖼️](https://drive.google.com/file/d/1HXGVusEsJjIVsYaMyscbwiLwggMphV2s/view?usp=sharing) |
-| React Lifecycle        | 📺[Insert Link Here]                                                                                                    | [🖼️](https://drive.google.com/file/d/1n_wwOKf6cjvAQPYK7Z0P3qN_mRw82ozY/view?usp=sharing) |
+| React Class Components and Life Cycle   | 📺(https://youtu.be/wswiShANrOE) | [🖼️](https://drive.google.com/file/d/1HXGVusEsJjIVsYaMyscbwiLwggMphV2s/view?usp=sharing) |
+| React Function Components and Events        | 📺[https://youtu.be/WpN9K5WtC1w]                                                                                                    | [🖼️](https://drive.google.com/file/d/1n_wwOKf6cjvAQPYK7Z0P3qN_mRw82ozY/view?usp=sharing) |
 | AJAX, fetch, and Axios | 📺[Insert Link Here]                                                                                                    | [🖼️](https://drive.google.com/file/d/1xMVz85U_cwgEqjynGaEMfwT_JNYbI1E6/view?usp=sharing) |
 | Promises               | 📺[Insert Link Here]                                                                                                    | [🖼️](https://drive.google.com/file/d/1xVo6kagZiOvdXexzT7ujiIXZTFC2ov0F/view?usp=sharing) |
 
