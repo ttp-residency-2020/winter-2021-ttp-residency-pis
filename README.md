@@ -408,25 +408,6 @@ Pre-Readings:
 
 Access Passcode: w.4@7Tc=
 
-[Assignment #6](https://gist.github.com/ajLapid718/6abcbd05383b178d200ea00a09edd0bc)
-[Assignment #7](https://gist.github.com/ajLapid718/dfc6f6c7377336d916686bb148c031c1)
-Due Sunday
-Additional Resources:
-
-[Live Code Pokemon API](https://github.com/DBorhara/liveClassDemoTTPWinter)
-
-- [Handling Multiple Inputs With One HandleChange Function](https://medium.com/@tmkelly28/handling-multiple-form-inputs-in-react-c5eb83755d15)
-
-- [An Approach for a Cancel Button](https://medium.com/@justintulk/best-practices-for-resetting-an-es6-react-components-state-81c0c86df98d)
-
-- [Sabe React Tutorial](https://sabe.io/tutorials/getting-started-with-react)
-- [Async/Await](https://www.youtube.com/watch?v=vn3tm0quoqE&t=170s)
-
-- [Conditional Rendering: I](https://react-cn.github.io/react/tips/if-else-in-JSX.html)
-- [Conditional Rendering: II](http://devnacho.com/2016/02/15/different-ways-to-add-if-else-statements-in-JSX/) (Be aware of all options, but disregard Option 2 for the time being)
-- [Conditional Rendering: III](https://reactjs.org/docs/conditional-rendering.html)
-
-- [Expected Behavior of Form/Folder Exercises](https://545q7.codesandbox.io/)
 
 #### Day 7 : React Router and Client-Side Routing In a Single-Page-Application
 
@@ -444,6 +425,27 @@ Pre-Readings:
 Access Passcode: Z6r+ANfw
 
 Assignment(s):
+
+- [Assignment #6](https://gist.github.com/ajLapid718/6abcbd05383b178d200ea00a09edd0bc)
+- [Assignment #7](https://gist.github.com/ajLapid718/dfc6f6c7377336d916686bb148c031c1)
+Due Monday
+
+Additional Resources:
+
+- [Live Code Pokemon API](https://github.com/DBorhara/liveClassDemoTTPWinter)
+
+- [Handling Multiple Inputs With One HandleChange Function](https://medium.com/@tmkelly28/handling-multiple-form-inputs-in-react-c5eb83755d15)
+
+- [An Approach for a Cancel Button](https://medium.com/@justintulk/best-practices-for-resetting-an-es6-react-components-state-81c0c86df98d)
+
+- [Sabe React Tutorial](https://sabe.io/tutorials/getting-started-with-react)
+- [Async/Await](https://www.youtube.com/watch?v=vn3tm0quoqE&t=170s)
+
+- [Conditional Rendering: I](https://react-cn.github.io/react/tips/if-else-in-JSX.html)
+- [Conditional Rendering: II](http://devnacho.com/2016/02/15/different-ways-to-add-if-else-statements-in-JSX/) (Be aware of all options, but disregard Option 2 for the time being)
+- [Conditional Rendering: III](https://reactjs.org/docs/conditional-rendering.html)
+
+- [Expected Behavior of Form/Folder Exercises](https://545q7.codesandbox.io/)
 
 - [DOM Challenges III with ReactJS: Assignment #8](https://docs.google.com/document/d/1Wk--Xn8oTGWk6Lv39jl--8JtGC-MJQ49Qadv1Y0bv2s/edit)
 
