@@ -425,10 +425,12 @@ Pre-Readings:
 Access Passcode: Z6r+ANfw
 
 Assignment(s):
+New teams for these assignments!
+- Due Monday at 10 AM
+  - [Assignment #6](https://gist.github.com/ajLapid718/6abcbd05383b178d200ea00a09edd0bc)
+  - [Assignment #7](https://gist.github.com/ajLapid718/dfc6f6c7377336d916686bb148c031c1)
+  - [DOM Challenges III with ReactJS: Assignment #8](https://docs.google.com/document/d/1Wk--Xn8oTGWk6Lv39jl--8JtGC-MJQ49Qadv1Y0bv2s/edit)
 
-- [Assignment #6](https://gist.github.com/ajLapid718/6abcbd05383b178d200ea00a09edd0bc)
-- [Assignment #7](https://gist.github.com/ajLapid718/dfc6f6c7377336d916686bb148c031c1)
-Due Monday
 
 Additional Resources:
 
@@ -446,12 +448,9 @@ Additional Resources:
 - [Conditional Rendering: III](https://reactjs.org/docs/conditional-rendering.html)
 
 - [Expected Behavior of Form/Folder Exercises](https://545q7.codesandbox.io/)
-
-- [DOM Challenges III with ReactJS: Assignment #8](https://docs.google.com/document/d/1Wk--Xn8oTGWk6Lv39jl--8JtGC-MJQ49Qadv1Y0bv2s/edit)
-
 - [Bank of React Assignment](https://gist.github.com/ajLapid718/0a95c08420ea645735bac88113928f63)
 
-#### Day 8 : State Management with Redux and React-Redux
+#### Day 8 : State Management with Hooks and context
 
 Pre-Readings:
 
