@@ -469,6 +469,8 @@ Pre-Readings:
 
 Our GitHub hooks examples from the morning:
 [Use State, Use Reducer and Use Context,](https://github.com/ArielAvshalom/reducer)
+
+
 Additional Resources:
 
 -[Redux Set Up Checklist](https://docs.google.com/document/d/1PFQ0eg-CzBW1i7dVV_VtWhvkjQ3ssqGSPWbqi5w9dJ0/edit?usp=sharing)
