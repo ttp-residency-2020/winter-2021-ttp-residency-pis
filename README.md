@@ -467,8 +467,8 @@ Pre-Readings:
 | Redux Middleware Slides       | N/A                                                                                                                     | [🖼️](https://drive.google.com/file/d/13D5Wv4-evRB9FUgRlr9cH_vPE0oRgafi/view?usp=sharing) |
 | Redux Thunk Middleware Slides | N/A                                                                                                                     | [🖼️](https://drive.google.com/file/d/1CWDPOigoVDwZDc4iLEpJMJ7MN42cT3qI/view?usp=sharing) |
 
-Access Passcode: 7FV3&a&2
-
+Our GitHub hooks examples from the morning:
+[Use State, Use Reducer and Use Context,](https://github.com/ArielAvshalom/reducer)
 Additional Resources:
 
 -[Redux Set Up Checklist](https://docs.google.com/document/d/1PFQ0eg-CzBW1i7dVV_VtWhvkjQ3ssqGSPWbqi5w9dJ0/edit?usp=sharing)
