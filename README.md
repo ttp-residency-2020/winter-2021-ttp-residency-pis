@@ -412,7 +412,7 @@ Access Passcode: w.4@7Tc=
 [Functional React Code](https://github.com/ArielAvshalom/reactfunctions)
 
 
-#### Day 7 : React Router and Client-Side Routing In a Single-Page-Application
+#### Day 7 : Fetch, async, await and functional hooks
 
 Pre-Readings:
 
@@ -423,7 +423,8 @@ Pre-Readings:
 
 | Topic        | Lecture                                                                                                                 | Slides                                                                       |
 | ------------ | ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| React Router | 📺(https://us02web.zoom.us/rec/share/LLKnViPcBpVsbFYgZW2qhbHbiruWb3MqfsTbQ_rVJxTgLW8Id59e-g3vM5v_lWYw.ti08IVquNRbR4eYc) | [🖼️](https://drive.google.com/file/d/1X7DB3LbAPPPEklKE-359GVKKFFsDGOg3/view) |
+| Fetch async await| 📺(https://youtu.be/8Eh8L8ms30E) | [🖼️](https://drive.google.com/file/d/1X7DB3LbAPPPEklKE-359GVKKFFsDGOg3/view) |
+| React Functional Hooks              |📺(https://youtu.be/HfnPddlM0vE)                                  |
 
 Access Passcode: Z6r+ANfw
 
@@ -453,7 +454,7 @@ Additional Resources:
 - [Expected Behavior of Form/Folder Exercises](https://545q7.codesandbox.io/)
 - [Bank of React Assignment](https://gist.github.com/ajLapid718/0a95c08420ea645735bac88113928f63)
 
-#### Day 8 : State Management with Hooks and context
+#### Day 8 : State Management with Hooks and context && React Router and Client-Side Routing In a Single-Page-Application
 
 Pre-Readings:
 
@@ -462,8 +463,8 @@ Pre-Readings:
 
 | Topic                         | Lecture                                                                                                                 | Slides                                                                                   |
 | ----------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| Redux / React-Redux Slides    | 📺(https://us02web.zoom.us/rec/share/-odE4AouNdG3uqWh2ShZZKoJVMpQl1d_Ca_0LWSVnI0nf1TnTkeFkIN3eunKoOn8.LFu8JfexXolhRzlm) | [🖼️](https://drive.google.com/file/d/1lg62vSdB3kS0PHBQJrzfNuCfgq7v7Ed6/view?usp=sharing) |
-| Redux / React-Redux Slides #2 | N/A                                                                                                                     | [🖼️](https://drive.google.com/file/d/1T4kvykmcM2MvKvnExjopJv2i4cOjZw1O/view?usp=sharing) |
+| useContext and useReducer hooks    | 📺(https://youtu.be/LTQbzS8RBrA) | [🖼️](https://drive.google.com/file/d/1lg62vSdB3kS0PHBQJrzfNuCfgq7v7Ed6/view?usp=sharing) |
+| Router continued | 📺(https://youtu.be/E1wY20Vi87c)                                                                                                                     | [🖼️](https://drive.google.com/file/d/1T4kvykmcM2MvKvnExjopJv2i4cOjZw1O/view?usp=sharing) |
 | Redux Middleware Slides       | N/A                                                                                                                     | [🖼️](https://drive.google.com/file/d/13D5Wv4-evRB9FUgRlr9cH_vPE0oRgafi/view?usp=sharing) |
 | Redux Thunk Middleware Slides | N/A                                                                                                                     | [🖼️](https://drive.google.com/file/d/1CWDPOigoVDwZDc4iLEpJMJ7MN42cT3qI/view?usp=sharing) |
 
@@ -488,10 +489,11 @@ Additional Resources:
 
 | Topic         | Lecture                                                                                                                 | Slides                                                                                   |
 | ------------- | ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| Intro to Node | 📺(https://us02web.zoom.us/rec/share/JVbl7ejg1ojY443SHZ5RvYLaAyqVN5AiTjzZs3VqNYf-mMkQ00GeHXdyCJaUFd6m.20tLihEr_5R314ql) | [🖼️](https://drive.google.com/file/d/1ipobX-kGeBf7bW5cshE7Nx3PS3dwpY9z/view?usp=sharing) |
-| NPM           | 📺                                                                                                                      | [🖼️](https://drive.google.com/file/d/1HBf6oLbu5VIBfFM2P-a2A2FYmFaN_4W4/view?usp=sharing) |
+| Intro to Node | 📺(https://youtu.be/ZelQe5LnR9Y) | [🖼️](https://drive.google.com/file/d/1ipobX-kGeBf7bW5cshE7Nx3PS3dwpY9z/view?usp=sharing) |
+| Yasmine and Abi showcase lifecycle vs hooks!           | 📺(https://youtu.be/wk4JatKHojw)                                                                                                                      | [🖼️](https://drive.google.com/file/d/1HBf6oLbu5VIBfFM2P-a2A2FYmFaN_4W4/view?usp=sharing) |
 
-Access Passcode: +?i0SyL.
+[code from office hour](https://github.com/YasmineCodes/TTP)
+
 
 Additional Resources:
 
@@ -509,11 +511,10 @@ Additional Resources:
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
 | Intro to Express | [📺](https://us02web.zoom.us/rec/share/dka5w4jSkWfLhy64ObChDk6K-njrWXwLXCh9IDlhtf5s_r0RAcWiksjggaJSDRAf.0RAppfUZDCKlfkbu) | [🖼️](https://drive.google.com/file/d/16awMgO3cPkabEpa08NZCaOjFH7J9E1Yg/view?usp=sharing) |
 
-Access Passcode: T&R5mC0P
 
 </details>
 
-![Construction](./www/Under_Construction.png)
+[comment]: # "![Construction](./www/Under_Construction.png)"
 
 
 ### Week 3
