@@ -120,11 +120,11 @@ Class Session 10: Introduction to Express | (01/15/2021))
 
 Class Session 11: PostgreSQL/Sequelize I| (01/18/2021))
 
-[comment]: # "Class Session 12: PostgreSQL/Sequelize II| (01/19/2021))"
+Class Session 12: PostgreSQL/Sequelize II| (01/19/2021))
 
-[comment]: # "Class Session 13: CRUD App I | (01/20/2021))"
+Class Session 13: CRUD App I | (01/20/2021))
 
-[comment]: # "Class Session 14: CRUD App II | (01/21/2021))"
+Class Session 14: CRUD App II | (01/21/2021))
 
 ## Week 4
 
