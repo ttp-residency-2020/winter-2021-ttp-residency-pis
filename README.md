@@ -369,8 +369,7 @@ vscode-icons
 Additional Resources:
 [React Docs](https://reactjs.org/docs/getting-started.html)
 
-Group Project #1:
-[Fullstack CRUD Application](https://docs.google.com/document/d/1tKiSJiPBnQTKzcUehzOYwn1Dv5V4uYO4-rTO0t3rQxM/edit#heading=h.7nze431u3zaf)
+
 
 </details>
 
@@ -541,6 +540,9 @@ Additional Resources:
 - [SQLBolt Tutorial](https://sqlbolt.com/)
 - [SQLZoo Tutorial](https://sqlzoo.net/)
 - [Tom Kelly Sequelize Docs](https://github.com/tmkelly28/sequelize-reference)
+
+Group Project #1:
+[Fullstack CRUD Application](https://docs.google.com/document/d/1tKiSJiPBnQTKzcUehzOYwn1Dv5V4uYO4-rTO0t3rQxM/edit#heading=h.7nze431u3zaf)
 
 #### Day 12 : PostgreSQL/Sequelize II
 
