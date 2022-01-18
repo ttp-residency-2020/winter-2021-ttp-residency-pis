@@ -535,6 +535,9 @@ Access Passcode: &d46%@F?
 - [Sequelize Querying and Associations: Part I](https://gist.github.com/ajLapid718/ca67efc0360c617e5eebb6f1342ae53e)
 - [Sequelize Querying and Associations: Part II](https://gist.github.com/ajLapid718/dfb48815a7472e9f6df09131bd0a7d49)
 
+- Due Thursday at 10 AM:
+  - [Assignment 10 psql](https://tinyurl.com/ttpa10)
+
 Additional Resources:
 
 - [SQLBolt Tutorial](https://sqlbolt.com/)
