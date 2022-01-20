@@ -508,7 +508,8 @@ Additional Resources:
 
 | Topic            | Lecture                                                                                                                   | Slides                                                                                   |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| Intro to Express | [📺](https://us02web.zoom.us/rec/share/dka5w4jSkWfLhy64ObChDk6K-njrWXwLXCh9IDlhtf5s_r0RAcWiksjggaJSDRAf.0RAppfUZDCKlfkbu) | [🖼️](https://drive.google.com/file/d/16awMgO3cPkabEpa08NZCaOjFH7J9E1Yg/view?usp=sharing) |
+| Intro to Express | [📺](https://youtu.be/qdH27iNPjcs) | [🖼️](https://drive.google.com/file/d/16awMgO3cPkabEpa08NZCaOjFH7J9E1Yg/view?usp=sharing) |
+|Express Routing |[📺](https://youtu.be/n70gf9M0GdI) | |
 
 
 </details>
@@ -528,8 +529,8 @@ Databases/Sequelize/PostgresSQL andCapstone Project Starts
 
 | Topic                          | Lecture                                                                                                                  | Slides                                                                                   |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
-| Intro to PostgresSQL Databases | [📺](https://us02web.zoom.us/rec/share/QNS5HHQvf4xxFiQd546rCwUVyTYip422jrOMhdpDtIvxDd424rCza_A5l0ngaXA.pIt0a8GaKJqp6A_2) | [🖼️](https://drive.google.com/file/d/1lrJMJQ6sIN9Xk0AImzOgTKkXh741VI3p/view?usp=sharing) |
-| PostgreSQL: Node.js Client     |                                                                                                                          | [🖼️](https://drive.google.com/file/d/1m-xlhm4QL93bxWvYsR0MVhF13a9USEXH/view)             |
+| Intro to PostgresSQL Databases | [📺](https://youtu.be/tLDeneWNTe4) | [🖼️](https://drive.google.com/file/d/1lrJMJQ6sIN9Xk0AImzOgTKkXh741VI3p/view?usp=sharing) |
+| PostgreSQL part 2 diagramming and database design |  [📺](https://youtu.be/Hk95hcw-pLo)                              | [🖼️](https://drive.google.com/file/d/1m-xlhm4QL93bxWvYsR0MVhF13a9USEXH/view)             |
 | Sequelize                      |                                                                                                                          | [🖼️](https://drive.google.com/file/d/1aiuzts6wny4Wk0ipB_ohBk3CJzOmr65M/view?usp=sharing) |
 
 Access Passcode: &d46%@F?
