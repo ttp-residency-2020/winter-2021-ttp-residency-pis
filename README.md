@@ -564,7 +564,7 @@ Group Project #1:
  [Cliff's Resume Talk](https://youtu.be/ogYtQ3_oADQ)
 
  [Cliff's Slide Deck](https://docs.google.com/presentation/d/1J8MK9zX9YCx_7PSRyN5-RSMH3W4Ir4NK/edit?usp=sharing&ouid=102426324810325156318&rtpof=true&sd=true)
- 
+
 [TTP Candidate Profles Form](https://airtable.com/shrnKwnZOvkqbw0nd)
 
 #### Day 13 : CRUD APP
@@ -574,7 +574,7 @@ CRUD Kickoff and Review Session with Dino
 
 Access Passcode: !s@0k89f
 
-[CRUD CODE : It's not all that cruddy, and it's really neat](https://github.com/ArielAvshalom/backend_crud)
+[CRUD CODE : It's not all that cruddy, and it's really neat!](https://github.com/ArielAvshalom/backend_crud)
 
 #### Day 14 : CRUD APP II
 
