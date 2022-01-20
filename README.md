@@ -559,7 +559,9 @@ Group Project #1:
 | Rounding Out Express and Sequelize | 📺[Insert Link Here]                                                                                                     | [🖼️](https://drive.google.com/file/d/1X13dFSydJiMV1Xfg6a5qyrMfwJfvQQ6d/view?usp=sharing) |
 
 
- [sample code](https://github.com/ArielAvshalom/Example-CRUD-API-for-TTP)
+ [Sample Code](https://github.com/ArielAvshalom/Example-CRUD-API-for-TTP)
+ [Cliff's Resume Talk](https://youtu.be/ogYtQ3_oADQ)
+
 
 #### Day 13 : CRUD APP
 
