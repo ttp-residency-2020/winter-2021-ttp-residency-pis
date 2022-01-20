@@ -169,7 +169,7 @@ Goals:
 
 | Topic           | Lecture                                                 | Slides                                                                |
 | ----------      | -------------------------------------------------       | -------------------------------------------------------------------   |
-| CSS Frameworks  | [📺](https://drive.google.com/file/d/1WMS8yGPGHCtB7wZgh_0EON782eYGuu4g/view?usp=sharing)                                       | [🖼️](https://1drv.ms/u/s!An3mqqGZuSCthdMdVebOdy9JsowCfg?e=Aoiwsd)    | 
+| CSS Frameworks  | [📺](https://drive.google.com/file/d/1WMS8yGPGHCtB7wZgh_0EON782eYGuu4g/view?usp=sharing)                                       | [🖼️](https://1drv.ms/u/s!An3mqqGZuSCthdMdVebOdy9JsowCfg?e=Aoiwsd)    |
 
 Assignment(s):
 This assignment is to get your feet wet, there is no submission required.
@@ -550,7 +550,7 @@ Additional Resources:
 Group Project #1:
 [Fullstack CRUD Application](https://docs.google.com/document/d/1tKiSJiPBnQTKzcUehzOYwn1Dv5V4uYO4-rTO0t3rQxM/edit#heading=h.7nze431u3zaf)
 
-#### Day 12 : PostgreSQL/Sequelize II
+#### Day 12 : PostgreSQL/pg-node and more express
 
 | Topic                              | Lecture                                                                                                                  | Slides                                                                                   |
 | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
@@ -558,7 +558,8 @@ Group Project #1:
 | Introduction To ORMs               | 📺[Insert Link Here]                                                                                                     | [🖼️](https://drive.google.com/file/d/1uuGYZ-ag-NXMTLt1yp63mIdsGp_mYAWJ/view?usp=sharing) |
 | Rounding Out Express and Sequelize | 📺[Insert Link Here]                                                                                                     | [🖼️](https://drive.google.com/file/d/1X13dFSydJiMV1Xfg6a5qyrMfwJfvQQ6d/view?usp=sharing) |
 
-Access Passcode: rY+e!24j
+
+ [sample code](https://github.com/ArielAvshalom/Example-CRUD-API-for-TTP)
 
 #### Day 13 : CRUD APP
 
