@@ -560,8 +560,11 @@ Group Project #1:
 
 
  [Sample Code](https://github.com/ArielAvshalom/Example-CRUD-API-for-TTP)
+
  [Cliff's Resume Talk](https://youtu.be/ogYtQ3_oADQ)
+
  [Cliff's Slide Deck](https://docs.google.com/presentation/d/1J8MK9zX9YCx_7PSRyN5-RSMH3W4Ir4NK/edit?usp=sharing&ouid=102426324810325156318&rtpof=true&sd=true)
+ 
 [TTP Candidate Profles Form](https://airtable.com/shrnKwnZOvkqbw0nd)
 
 #### Day 13 : CRUD APP
