@@ -548,7 +548,9 @@ Additional Resources:
 - [Tom Kelly Sequelize Docs](https://github.com/tmkelly28/sequelize-reference)
 
 Group Project #1:
-[Fullstack CRUD Application](https://docs.google.com/document/d/1tKiSJiPBnQTKzcUehzOYwn1Dv5V4uYO4-rTO0t3rQxM/edit#heading=h.7nze431u3zaf)
+<!-- [Fullstack CRUD Application](https://docs.google.com/document/d/1tKiSJiPBnQTKzcUehzOYwn1Dv5V4uYO4-rTO0t3rQxM/edit#heading=h.7nze431u3zaf) -->
+
+[Fullstack CRUD Application](https://tinyurl.com/CrudSpec)
 
 #### Day 12 : PostgreSQL/pg-node and more express
 
@@ -581,7 +583,7 @@ Access Passcode: !s@0k89f
 Review Session with Dino-mite!
 [📺](https://us02web.zoom.us/rec/share/kgTYrpw-doEc3RA0jZ0BxngON5FVbwC_m6IRU_mUSmIfJ0eo8VfCJjkVn5bjMhAx.vn49CWNNY84a7JDe)
 
-Access Passcode: FqtC.5c*
+[Front End CRUD code](https://github.com/ArielAvshalom/CRUD-Front-End-TTP)
 
 </details>
 
