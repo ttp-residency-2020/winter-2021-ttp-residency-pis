@@ -572,7 +572,8 @@ Group Project #1:
 #### Day 13 : CRUD APP
 
 CRUD Kickoff and Review Session with Dino
-[📺](https://us02web.zoom.us/rec/share/dwwmxPhpeQ14AgTD3NgaYwioTZiBJDi450bJGCOAZG0NhOHm4k_8Wyhg3qgEAxvu.IXeRg7Jz6f7yTXvK)
+[📺 Sequelize (morning)](https://youtu.be/79l-7t94OJA)
+[📺 Sequlize and CRUD Backend](https://youtu.be/5jZGVsqGuyU)
 
 Access Passcode: !s@0k89f
 
@@ -581,7 +582,7 @@ Access Passcode: !s@0k89f
 #### Day 14 : CRUD APP II
 
 Review Session with Dino-mite!
-[📺](https://us02web.zoom.us/rec/share/kgTYrpw-doEc3RA0jZ0BxngON5FVbwC_m6IRU_mUSmIfJ0eo8VfCJjkVn5bjMhAx.vn49CWNNY84a7JDe)
+[📺 Frontend CRUD and data flow](https://youtu.be/E2Jsxulsqv4)
 
 [Front End CRUD code](https://github.com/ArielAvshalom/CRUD-Front-End-TTP)
 
