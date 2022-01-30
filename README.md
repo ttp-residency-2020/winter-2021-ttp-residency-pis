@@ -567,7 +567,7 @@ Group Project #1:
 
  [Cliff's Slide Deck](https://docs.google.com/presentation/d/1J8MK9zX9YCx_7PSRyN5-RSMH3W4Ir4NK/edit?usp=sharing&ouid=102426324810325156318&rtpof=true&sd=true)
 
-[TTP Candidate Profles Form](https://airtable.com/shrnKwnZOvkqbw0nd)
+[TTP Candidate Profiles Form](https://airtable.com/shrnKwnZOvkqbw0nd)
 
 #### Day 13 : CRUD APP
 
@@ -593,4 +593,49 @@ Review Session with Dino-mite!
 Capstone Project, Demo Day, and Exit Assessment
 
 <details><summary>Click to open</summary>
+
+Day 15: Beginning the Capstone!
+
+Goals:
+
+- View our [spec](https://1drv.ms/p/s!An3mqqGZuSCthdM701hmrjaXOuWNsA?e=fKs7aq) (a powerpoint) on the Capstone
+- Break up into assigned teams
+- Begin the planning phase
+- Meet the instructor and your assigned TA to work out what you'd like to develop
+- Build a wire frame
+
+Additionally, join us for a lunch and learn with a Google Software Engineer!
+
+[Spec day recording](https://www.youtube.com/watch?v=2TDSbMxhfUk)
+
+Day 16: Capstone part 2:
+
+- Work with teams on the Capstone
+- Meet with TAs and instructor if there are any issues
+- Consider both the frontend and backend and decide what you'd like to prioritize
+
+
+Day 17: Capstone part 3:
+
+- Have an MVP (minimum viable product) ready by the morning today
+- Continue working on your project and consider your stretch goal
+
+Additionally join us for a mandatory lunch and learn session with American Express!
+
+
+Day 18: Wrapping up the Capstone:
+
+- Work with your teams (likely till really late at night...)
+- Meet with TAs and instructor for any final issues or tweaking
+
+Additionally, join us for a lunch and learn session with a recruiter from HubSpot!
+
+Day 19: Demo Day:
+
+- Take the exit assessment
+- Present your demos!!!
+- Hear our closing statements and get ready for the Spring semester (and your Summer internships)!
+
+[Demo Day Recording](example.com/demoday)
+
 </details>
