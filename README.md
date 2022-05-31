@@ -1,4 +1,6 @@
-# 📚 Tech Talent Pipeline Residency: Winter 2021 Bootcamp
+![TTP](./www/TTP_Logo_1.png)
+
+# 📚 Tech Talent Pipeline Residency: Winter 2022 Bootcamp
 
 ## :scroll: Course Information
 
@@ -7,10 +9,12 @@
 - Class Days and Times
 
   - Monday - Friday, 10AM - 4PM
-  - Dates: January 4, 2021(Monday) - January 29, 2021(Friday)
+  - Dates: January 3, 2022(Monday) - January 28, 2022(Friday)
 
-- [:movie_camera: Zoom Link](https://us02web.zoom.us/j/83101880157?pwd=L0d5ZHhMazcya3JwTTJGTGRaRCtHQT09)
-- [:computer: Slack Workspace](https://app.slack.com/client/T0149RH248J/C01433YF022)
+- [:movie_camera: Zoom Link](https://us02web.zoom.us/j/85857451767?pwd=SVlZbG5UYkhzb0tOaXIzSk9ONTUwdz09)
+- [:computer: Slack](https://cunyttp.slack.com/archives/C02N91RHGM9)
+- [:notebook: OneNote](https://1drv.ms/u/s!An3mqqGZuSCthdMUP8u8X3kS06rYhg)
+
 
 </details>
 
@@ -30,43 +34,49 @@
 
 <details><summary>Click to Expand</summary>
 
-### Lead Instructor : Depak Borhara(He/Him)
+### Lead Instructor : Ariel Avshalom(He/Him)
 
-- [:e-mail: Email](depakborhara@gmail.com)
-- [:card_file_box: LinkedIn](https://www.linkedin.com/in/depakborhara)
-- [:octocat: Github](http://github.com/DBorhara)
+- [:e-mail: Email](csciprofessor+ttp@gmail.com)
+- [:card_file_box: LinkedIn](https://www.linkedin.com/in/arielavshalom)
+- [:octocat: Github](http://github.com/ArielAvshalom)
 
-### Lead TA: Konstantinos Houtas
+### Lead TA: Tenzin Jamyang
 
-- [:e-mail: Email](khoutas98@gmail.com)
-- [:card_file_box: LinkedIn](https://www.linkedin.com/in/khoutas/)
-- [:octocat: Github](https://github.com/Reyder95)
+- [:e-mail: Email](jamyangu@gmail.com)
+- [:card_file_box: LinkedIn](https://www.linkedin.com/in/tenzinjamyang/)
+- [:octocat: Github](http://github.com/TenzinJam)
 
 ### Teaching Assistants
 
-#### Bashir Alhanshali
+#### Ariel Benzur
 
-- [:e-mail: Email](bashiralhanshali@gmail.com)
-- [:card_file_box: LinkedIn](https://www.linkedin.com/in/balhanshali/)
-- [:octocat: Github](https://github.com/bashir2017)
+- [:e-mail: Email](aab171@outlook.com)
+- [:card_file_box: LinkedIn](https://www.linkedin.com/in/ariel-benzur-01072001/)
+- [:octocat: Github](https://github.com/ArielBenz171)
 
-#### Emmanuel Kandilas (Manny) (He/Him)
+#### Yasmine Kamel
 
-- [:e-mail: Email](Ekandilas@gmail.com)
-- [:card_file_box: LinkedIn](https://www.linkedin.com/in/manny-kan-code/)
-- [:octocat: Github](https://github.com/E-kandilas)
+- [:e-mail: Email](yasminecodes@gmail.com)
+- [:card_file_box: LinkedIn](https://www.linkedin.com/in/yasmine-kamel/)
+- [:octocat: Github](https://github.com/YasmineCodes)
 
-#### Temurbek Sabirov
+#### Victor Li
 
-- [:e-mail: Email](temurbeksab98@gmail.com)
-- [:card_file_box: LinkedIn](https://www.linkedin.com/in/temursabirov/)
-- [:octocat: Github](https://github.com/Temurbekk)
+- [:e-mail: Email](vliboolean1010@gmail.com)
+- [:card_file_box: LinkedIn](https://www.linkedin.com/in/victor-li-b45bab148/)
+- [:octocat: Github](https://github.com/victorFFFF)
 
-#### Sagar Shrestha
+#### Abi Scholz
 
-- [:e-mail: Email](sg28r8@gmail.com)
-- [:card_file_box: LinkedIn](https://www.linkedin.com/in/sagr2848/)
-- [:octocat: Github](https://github.com/sgr2848)
+- [:e-mail: Email](abi.scholz@gmail.com)
+- [:card_file_box: LinkedIn](https://www.linkedin.com/in/abischolz/)
+- [:octocat: Github](https://github.com/abischolz)
+
+### Mohammed Shafee
+
+- [:e-mail: Email](m.shafee1993@gmail.com)
+- [:card_file_box: LinkedIn](https://www.linkedin.com/in/mohamed-shafee1/)
+- [:octocat: Github](https://github.com/Moe82)
 
 ### Program Manager: Allan James S. Lapid
 
@@ -82,51 +92,51 @@
 
 Pre-Bootcamp Material
 
-Week 1
+## Week 1
 
-Class Session 1: Pilot Assessment and Collaborative Workflow I | (01/04/2021)
+Class Session 1: Pilot Assessment and Tailwind | (01/03/2022)
 
-Class Session 2: Collaborative Workflow I and Introduction to JS | (01/05/2021)
+Class Session 2: Collaborative Workflow I and Introduction to JS | (01/04/2022)
 
-Class Session 3: DOM Manipulation | (01/06/2021)
+Class Session 3: DOM Manipulation | (01/05/2022)
 
-Class Session 4: Introduction to React | (01/07/2021)
+Class Session 4: Introduction to React | (01/06/2022)
 
-Class Session 5: Introduction to External API Requests and ReactJS | (01/08/2021)
+Class Session 5: Introduction to External API Requests and ReactJS | (01/07/2022)
 
-Week2
+## Week2
 
-Class Session 6: Introduction to External API Requests and ReactJS Continued | (01/11/2021)
+Class Session 6: Introduction to External API Requests and in-depth ReactJS classes and functions | (01/10/2021)
 
-Class Session 7: React Router and Client-Side Routing in a SPA | (01/12/2021)
+Class Session 7: APIs, JSon, Hooks, Promises and Async | (01/12/2021)
 
-Class Session 8: State Management with Redux and React-Redux | (01/13/2021)
+Class Session 8: React Router and React Context | (01/13/2021)
 
-Class Session 9: Introduction to NodeJS | (01/14/2021)
+Class Session 9: Introduction to NodeJS | (01/14/2021))
 
-Class Session 10: Introduction to Express | (01/15/2021)
+Class Session 10: Introduction to Express | (01/15/2021))
 
-Week 3
+## Week 3
 
-Class Session 11: PostgreSQL/Sequelize I| (01/19/2021)
+Class Session 11: PostgreSQL/Sequelize I| (01/18/2021))
 
-Class Session 12: PostgreSQL/Sequelize II| (01/20/2021)
+Class Session 12: PostgreSQL/Sequelize II| (01/19/2021))
 
-Class Session 13: CRUD App I | (01/21/2021)
+Class Session 13: CRUD App I | (01/20/2021))
 
-Class Session 14: CRUD App II | (01/22/2021)
+Class Session 14: CRUD App II | (01/21/2021))
 
-Week 4
+## Week 4
 
-Class Session 15: Project Building I | (01/25/2021)
+[comment]: # "Class Session 15: Project Building I | (01/25/2021))"
 
-Class Session 16: Project Building II | (01/26/2021)
+[comment]: # "Class Session 16: Project Building II | (01/26/2021))"
 
-Class Session 17: Project Building III | (01/27/2021)
+[comment]: # "Class Session 17: Project Building III | (01/27/2021))"
 
-Class Session 18: Project Building IV | (01/28/2021)
+[comment]: # "Class Session 18: Project Building IV | (01/28/2021))"
 
-Class Session 19: Exit Assessment and Demo Day | (01/29/2021)
+[comment]: # "Class Session 19: Exit Assessment and Demo Day | (01/29/2021))"
 
 </details>
 
@@ -140,15 +150,47 @@ Class Session 19: Exit Assessment and Demo Day | (01/29/2021)
 
 ### Week 1
 
-Welcome! We will be going over alot this week! This week includes git workflow, javascript, The DOM, and React!
+Welcome! We will be going over alot this week! This week includes tailwind, git workflow, javascript, The DOM, and React!
 
 <details><summary>Click to open</summary>
 
-#### Day 1: Pilot Assessment and Collaborative Workflow I
+#### Day 1: Pilot Assessment and Tailwind
+
+<details><summary>Click to Expand</summary>
+
+Goals:
+  - try your hand at an assessment! You're not expected to be able to answer all of the questions, but by the end of the bootcamp, most of it should be doable!
+
+  - Orientation: what we'll learn and why over the next month
+
+  - Play around with tailwind (a css framework)
+
+
+
+| Topic           | Lecture                                                 | Slides                                                                |
+| ----------      | -------------------------------------------------       | -------------------------------------------------------------------   |
+| CSS Frameworks  | [📺](https://drive.google.com/file/d/1WMS8yGPGHCtB7wZgh_0EON782eYGuu4g/view?usp=sharing)                                       | [🖼️](https://1drv.ms/u/s!An3mqqGZuSCthdMdVebOdy9JsowCfg?e=Aoiwsd)    |
+
+Assignment(s):
+This assignment is to get your feet wet, there is no submission required.
+
+GitHub is one of the most popular collaboration hosting platforms out there. In order to familiarize yourself with it, either install git-it-electron (first link) or run githug (second link) with ruby.
+
+Then play the game available and learn some practical github (and git) in a fun and interactive way!
+
+- https://github.com/jlord/git-it-electron
+- https://github.com/Gazler/githug
+
+</details>
 
 #### Day 2: Onboarding, Git/Github/Collaborative Software Development (Pair Programming)
 
+<details><summary>Click to Expand</summary>
+
+
 Pre-Readings:
+
+- [HubSpot's Github intro](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 
 - [Git Codecademy Tutorial](https://www.codecademy.com/learn/learn-git)
 
@@ -156,16 +198,15 @@ Pre-Readings:
 
 - [Advanced Git Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows)
 
-| Topic      | Lecture                                                                                                                   | Slides                                                                                                     |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| Git Part 1 | [📺](https://us02web.zoom.us/rec/share/XhAeJGdHPzUIB33gn2EdLTUJyGbVnSIRQbJmmqXfON13K-s2CfhTmsWuN_QQEXz1.4d3LpJWzH61s3UID) | [🖼️](https://docs.google.com/presentation/d/12tgnThkuKGHpbxZEv2RTWOTLpViL1O3hcHEGNJv9Wzo/edit?usp=sharing) |
-| Git Part 2 |                                                                                                                           | [🖼️](https://docs.google.com/presentation/d/1Qkz1Z83P2b2EUFDrMN8L1X7BcMwZzzkSqCKCI8INH78/edit?usp=sharing) |
-
-Passcode: @3Bh2fA6
+| Topic      | Lecture                                                           | Slides                                                                                                     |
+| ---------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| Git Part 1 | [📺](https://drive.google.com/file/d/1GMIl7Vp4z5X9LkC35BqzpwmFWxOhuBw4/view?usp=sharing) | [🖼️](https://docs.google.com/presentation/d/12tgnThkuKGHpbxZEv2RTWOTLpViL1O3hcHEGNJv9Wzo/edit?usp=sharing) |
+| Git Part 2 | [📺](https://drive.google.com/file/d/1G2xBB109gbvIDMrsMc2_49f4Xm5swIyE/view?usp=sharing) | [🖼️](https://docs.google.com/presentation/d/1Qkz1Z83P2b2EUFDrMN8L1X7BcMwZzzkSqCKCI8INH78/edit?usp=sharing) |
 
 Assignment(s):
 
 - [Collaboration Workshop Assignment #1](https://docs.google.com/document/d/1Yp10nGa09vAWzIlCxmkayuEf2RhKN0UhakKl_Zgplak)
+- [About Students Assignment 1.5](https://1drv.ms/w/s!An3mqqGZuSCthdMgVlSlgbpK_I6Xww?e=pFgRBe)
 
 Additional Resources:
 
@@ -185,7 +226,18 @@ Git Cheat Sheets:
 - https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
 - https://www.git-tower.com/learn/cheat-sheets/vcs-workflow
 
+Git Tutorial Videos:
+
+- https://www.youtube.com/watch?v=HVsySz-h9r4&t=443s&ab_channel=CoreySchafer
+- https://www.youtube.com/watch?v=SWYqp7iY_Tc&ab_channel=TraversyMedia
+- [Merge Conflicts](https://www.youtube.com/watch?v=XX-Kct0PfFc&ab_channel=TheNetNinja)
+
+
+</details>
+
 #### Day 3: Javascript Basics Overview
+
+<details><summary>Click to Expand</summary>
 
 Pre-Readings:
 
@@ -197,10 +249,10 @@ Pre-Readings:
 
 | Topic            | Lecture                                                                                                                  | Slides                                                                                   |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
-| Javascript!      | [📺](https://us02web.zoom.us/rec/share/NdBu6n2oZJ50kXdVR7OlQr931xvgCfLV5jYpWax3LYhwT6WgwHdfg-lgwFAKVuI.hXnSF2Z8wKxZrN7I) | [🖼️](https://drive.google.com/file/d/1JL2pjlW0np5sxY8uKLQdU_W8vd3PPXdM/view?usp=sharing) |
-| More Javascript! |                                                                                                                          | [🖼️](https://drive.google.com/file/d/1RAYPYLNmtDRqLy1bBFuDxpqsiOnYOpRg/view?usp=sharing) |
+| Javascript!      | [📺](https://youtu.be/QMrNICSDqyo) | [🖼️](https://drive.google.com/file/d/1JL2pjlW0np5sxY8uKLQdU_W8vd3PPXdM/view?usp=sharing) |
+| More Javascript! | [📺](https://youtu.be/WVKrV0Uz79U) | [🖼️](https://drive.google.com/file/d/1RAYPYLNmtDRqLy1bBFuDxpqsiOnYOpRg/view?usp=sharing) |
 
-Passcode : c?54QKRA
+[TAs JavaScript Examples](https://github.com/ArielAvshalom/JavaScript-Examples)
 
 Assignment(s):
 
@@ -211,7 +263,11 @@ Additional Resources:
 - [Repl Link](https://repl.it/@DBorhara/TTPWiinter2021JS#index.js)
 - [Awwwards Site](https://www.awwwards.com/websites/reactjsdah/)
 
+</details>
+
 #### Day 4 : DOM Manipulation
+
+<details><summary>Click to Expand</summary>
 
 Pre-Readings:
 
@@ -223,11 +279,11 @@ Pre-Readings:
 
 - [A Series of DOM Slides](https://www.teaching-materials.org/jsweb/slides/dom#/)
 
-| Topic   | Lecture                                                                                                                   | Slides                                                                                                     |
-| ------- | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| The DOM | [📺](https://us02web.zoom.us/rec/share/bfcl4nSHtS5Be1nisiiLzaf6yX7XDbCxPZgHumRtmhJhTeWm8o0Y5hQtAcURDor1.-hOTAZM0HDmkT-0Y) | [🖼️](https://docs.google.com/presentation/d/1TjI1htHMMbvmoN0A4RcgepSKP-AJ-z08XzVXWD_ZBOk/edit?usp=sharing) |
+| Topic   | Lecture   | Slides/Repo  |
+| ------- | ----------------- | ---------------------------------------------------------------------------------------------------------- |
+| The DOM | [📺](https://youtu.be/tCEd2o-3n8g) | [🖼️](https://docs.google.com/presentation/d/1TjI1htHMMbvmoN0A4RcgepSKP-AJ-z08XzVXWD_ZBOk/edit?usp=sharing) |
+| JS OOP  | [📺](https://youtu.be/X3RorjoUiiw) | [:desktop_computer:](https://github.com/tenzinjam/oopinjs)
 
-passcode : HCVHC^Z2
 
 Assignment(s):
 
@@ -247,7 +303,19 @@ Additional Resource:
 
 - [NodeList Docs](https://developer.mozilla.org/en-US/docs/Web/API/NodeList)
 
+Useful video series on the DOM:
+
+- [Part 1](https://www.youtube.com/watch?v=l-0nPnSvbX8)
+
+- [Part 2](https://www.youtube.com/watch?v=8LWQNnVAMh4)
+
+- [Part 3](https://www.youtube.com/watch?v=QE1YQnhntgw)
+
+</details>
+
 #### Day 5 : Introduction to React
+
+<details><summary>Click to Expand</summary>
 
 Pre-Readings:
 
@@ -283,7 +351,7 @@ Pre-Readings:
 
 | Topic   | Lecture                                                                                                                   | Slides                                                                                                                   |
 | ------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| ReactJS | [📺](https://us02web.zoom.us/rec/share/SeaNRJEgq0CZxRnL9eTfItbWOZDI8f5y8wIBNzD5dX7VHVKpNCFHl5r6f4tya9KS.8CPd0mTNhXNy4Dq3) | [🖼️](https://docs.google.com/presentation/d/1ztwgOYekXjr0c58Le8tIWwEcIuwYYLz-9XnLh9NoPB8/edit#slide=id.gb4930cdae2_1_32) |
+| ReactJS | [📺](https://youtu.be/m1aeRId3yX0) | [🖼️](https://docs.google.com/presentation/d/1ztwgOYekXjr0c58Le8tIWwEcIuwYYLz-9XnLh9NoPB8/edit#slide=id.gb4930cdae2_1_32) |
 
 Passcode: yb20gK!7
 
@@ -301,10 +369,18 @@ vscode-icons
 Additional Resources:
 [React Docs](https://reactjs.org/docs/getting-started.html)
 
-Group Project #1:
-[Fullstack CRUD Application](https://docs.google.com/document/d/1tKiSJiPBnQTKzcUehzOYwn1Dv5V4uYO4-rTO0t3rQxM/edit#heading=h.7nze431u3zaf)
+
 
 </details>
+
+</details>
+
+
+
+
+
+
+
 
 ### Week 2
 
@@ -324,19 +400,44 @@ Pre-Readings:
 
 | Topic                  | Lecture                                                                                                                 | Slides                                                                                   |
 | ---------------------- | ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| React Events / Forms   | 📺(https://us02web.zoom.us/rec/share/5c9eVBsfIFFwRKmD_gvAZ6ailIZTc-ZJ-YP19QW5e1jbB5zbY5aayukcNtCPfk9W._1mv1XuUdIu2dbQ0) | [🖼️](https://drive.google.com/file/d/1HXGVusEsJjIVsYaMyscbwiLwggMphV2s/view?usp=sharing) |
-| React Lifecycle        | 📺[Insert Link Here]                                                                                                    | [🖼️](https://drive.google.com/file/d/1n_wwOKf6cjvAQPYK7Z0P3qN_mRw82ozY/view?usp=sharing) |
+| React Class Components and Life Cycle   | 📺(https://youtu.be/wswiShANrOE) | [🖼️](https://drive.google.com/file/d/1HXGVusEsJjIVsYaMyscbwiLwggMphV2s/view?usp=sharing) |
+| React Function Components and Events        | 📺[https://youtu.be/WpN9K5WtC1w]                                                                                                    | [🖼️](https://drive.google.com/file/d/1n_wwOKf6cjvAQPYK7Z0P3qN_mRw82ozY/view?usp=sharing) |
 | AJAX, fetch, and Axios | 📺[Insert Link Here]                                                                                                    | [🖼️](https://drive.google.com/file/d/1xMVz85U_cwgEqjynGaEMfwT_JNYbI1E6/view?usp=sharing) |
 | Promises               | 📺[Insert Link Here]                                                                                                    | [🖼️](https://drive.google.com/file/d/1xVo6kagZiOvdXexzT7ujiIXZTFC2ov0F/view?usp=sharing) |
 
 Access Passcode: w.4@7Tc=
 
-[Assignment #6](https://gist.github.com/ajLapid718/6abcbd05383b178d200ea00a09edd0bc)
-[Assignment #7](https://gist.github.com/ajLapid718/dfc6f6c7377336d916686bb148c031c1)
-Due Sunday
+[Class React Code](https://github.com/ArielAvshalom/Cars-using-React-Classes)
+[Functional React Code](https://github.com/ArielAvshalom/reactfunctions)
+
+
+#### Day 7 : Fetch, async, await and functional hooks
+
+Pre-Readings:
+
+- [React Router Resource 1](https://codeburst.io/getting-started-with-react-router-5c978f70df91)
+- [React Router Resource 2](https://reacttraining.com/react-router/web/guides/quick-start)
+- [React Router Resource #3](https://reacttraining.com/react-router/web/guides/philosophy)
+- [React Router Resource #4](https://www.techiediaries.com/react-router-dom-v4/)
+
+| Topic        | Lecture                                                                                                                 | Slides                                                                       |
+| ------------ | ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| Fetch async await| 📺(https://youtu.be/8Eh8L8ms30E) | [🖼️](https://drive.google.com/file/d/1X7DB3LbAPPPEklKE-359GVKKFFsDGOg3/view) |
+| React Functional Hooks              |📺(https://youtu.be/HfnPddlM0vE)                                  |
+
+Access Passcode: Z6r+ANfw
+
+Assignment(s):
+New teams for these assignments!
+- Due Monday at 10 AM
+  - [Assignment #6](https://gist.github.com/ajLapid718/6abcbd05383b178d200ea00a09edd0bc)
+  - [Assignment #7](https://gist.github.com/ajLapid718/dfc6f6c7377336d916686bb148c031c1)
+  - [DOM Challenges III with ReactJS: Assignment #8](https://docs.google.com/document/d/1Wk--Xn8oTGWk6Lv39jl--8JtGC-MJQ49Qadv1Y0bv2s/edit)
+
+
 Additional Resources:
 
-[Live Code Pokemon API](https://github.com/DBorhara/liveClassDemoTTPWinter)
+- [Live Code Pokemon API](https://github.com/DBorhara/liveClassDemoTTPWinter)
 
 - [Handling Multiple Inputs With One HandleChange Function](https://medium.com/@tmkelly28/handling-multiple-form-inputs-in-react-c5eb83755d15)
 
@@ -350,29 +451,9 @@ Additional Resources:
 - [Conditional Rendering: III](https://reactjs.org/docs/conditional-rendering.html)
 
 - [Expected Behavior of Form/Folder Exercises](https://545q7.codesandbox.io/)
-
-#### Day 7 : React Router and Client-Side Routing In a Single-Page-Application
-
-Pre-Readings:
-
-- [React Router Resource 1](https://codeburst.io/getting-started-with-react-router-5c978f70df91)
-- [React Router Resource 2](https://reacttraining.com/react-router/web/guides/quick-start)
-- [React Router Resource #3](https://reacttraining.com/react-router/web/guides/philosophy)
-- [React Router Resource #4](https://www.techiediaries.com/react-router-dom-v4/)
-
-| Topic        | Lecture                                                                                                                 | Slides                                                                       |
-| ------------ | ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| React Router | 📺(https://us02web.zoom.us/rec/share/LLKnViPcBpVsbFYgZW2qhbHbiruWb3MqfsTbQ_rVJxTgLW8Id59e-g3vM5v_lWYw.ti08IVquNRbR4eYc) | [🖼️](https://drive.google.com/file/d/1X7DB3LbAPPPEklKE-359GVKKFFsDGOg3/view) |
-
-Access Passcode: Z6r+ANfw
-
-Assignment(s):
-
-- [DOM Challenges III with ReactJS: Assignment #8](https://docs.google.com/document/d/1Wk--Xn8oTGWk6Lv39jl--8JtGC-MJQ49Qadv1Y0bv2s/edit)
-
 - [Bank of React Assignment](https://gist.github.com/ajLapid718/0a95c08420ea645735bac88113928f63)
 
-#### Day 8 : State Management with Redux and React-Redux
+#### Day 8 : State Management with Hooks and context && React Router and Client-Side Routing In a Single-Page-Application
 
 Pre-Readings:
 
@@ -381,12 +462,14 @@ Pre-Readings:
 
 | Topic                         | Lecture                                                                                                                 | Slides                                                                                   |
 | ----------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| Redux / React-Redux Slides    | 📺(https://us02web.zoom.us/rec/share/-odE4AouNdG3uqWh2ShZZKoJVMpQl1d_Ca_0LWSVnI0nf1TnTkeFkIN3eunKoOn8.LFu8JfexXolhRzlm) | [🖼️](https://drive.google.com/file/d/1lg62vSdB3kS0PHBQJrzfNuCfgq7v7Ed6/view?usp=sharing) |
-| Redux / React-Redux Slides #2 | N/A                                                                                                                     | [🖼️](https://drive.google.com/file/d/1T4kvykmcM2MvKvnExjopJv2i4cOjZw1O/view?usp=sharing) |
+| useContext and useReducer hooks    | 📺(https://youtu.be/LTQbzS8RBrA) | [🖼️](https://drive.google.com/file/d/1lg62vSdB3kS0PHBQJrzfNuCfgq7v7Ed6/view?usp=sharing) |
+| Router continued | 📺(https://youtu.be/E1wY20Vi87c)                                                                                                                     | [🖼️](https://drive.google.com/file/d/1T4kvykmcM2MvKvnExjopJv2i4cOjZw1O/view?usp=sharing) |
 | Redux Middleware Slides       | N/A                                                                                                                     | [🖼️](https://drive.google.com/file/d/13D5Wv4-evRB9FUgRlr9cH_vPE0oRgafi/view?usp=sharing) |
 | Redux Thunk Middleware Slides | N/A                                                                                                                     | [🖼️](https://drive.google.com/file/d/1CWDPOigoVDwZDc4iLEpJMJ7MN42cT3qI/view?usp=sharing) |
 
-Access Passcode: 7FV3&a&2
+Our GitHub hooks examples from the morning:
+[Use State, Use Reducer and Use Context,](https://github.com/ArielAvshalom/reducer)
+
 
 Additional Resources:
 
@@ -405,10 +488,11 @@ Additional Resources:
 
 | Topic         | Lecture                                                                                                                 | Slides                                                                                   |
 | ------------- | ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| Intro to Node | 📺(https://us02web.zoom.us/rec/share/JVbl7ejg1ojY443SHZ5RvYLaAyqVN5AiTjzZs3VqNYf-mMkQ00GeHXdyCJaUFd6m.20tLihEr_5R314ql) | [🖼️](https://drive.google.com/file/d/1ipobX-kGeBf7bW5cshE7Nx3PS3dwpY9z/view?usp=sharing) |
-| NPM           | 📺                                                                                                                      | [🖼️](https://drive.google.com/file/d/1HBf6oLbu5VIBfFM2P-a2A2FYmFaN_4W4/view?usp=sharing) |
+| Intro to Node | 📺(https://youtu.be/ZelQe5LnR9Y) | [🖼️](https://drive.google.com/file/d/1ipobX-kGeBf7bW5cshE7Nx3PS3dwpY9z/view?usp=sharing) |
+| Yasmine and Abi showcase lifecycle vs hooks!           | 📺(https://youtu.be/wk4JatKHojw)                                                                                                                      | [🖼️](https://drive.google.com/file/d/1HBf6oLbu5VIBfFM2P-a2A2FYmFaN_4W4/view?usp=sharing) |
 
-Access Passcode: +?i0SyL.
+[code from office hour](https://github.com/YasmineCodes/TTP)
+
 
 Additional Resources:
 
@@ -424,11 +508,16 @@ Additional Resources:
 
 | Topic            | Lecture                                                                                                                   | Slides                                                                                   |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| Intro to Express | [📺](https://us02web.zoom.us/rec/share/dka5w4jSkWfLhy64ObChDk6K-njrWXwLXCh9IDlhtf5s_r0RAcWiksjggaJSDRAf.0RAppfUZDCKlfkbu) | [🖼️](https://drive.google.com/file/d/16awMgO3cPkabEpa08NZCaOjFH7J9E1Yg/view?usp=sharing) |
+| Intro to Express | [📺](https://youtu.be/qdH27iNPjcs) | [🖼️](https://drive.google.com/file/d/16awMgO3cPkabEpa08NZCaOjFH7J9E1Yg/view?usp=sharing) |
+|Express Routing |[📺](https://youtu.be/n70gf9M0GdI) | |
 
-Access Passcode: T&R5mC0P
 
 </details>
+
+[express example](https://github.com/ArielAvshalom/express-for-ttp)
+
+[comment]: # "![Construction](./www/Under_Construction.png)"
+
 
 ### Week 3
 
@@ -440,8 +529,8 @@ Databases/Sequelize/PostgresSQL andCapstone Project Starts
 
 | Topic                          | Lecture                                                                                                                  | Slides                                                                                   |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
-| Intro to PostgresSQL Databases | [📺](https://us02web.zoom.us/rec/share/QNS5HHQvf4xxFiQd546rCwUVyTYip422jrOMhdpDtIvxDd424rCza_A5l0ngaXA.pIt0a8GaKJqp6A_2) | [🖼️](https://drive.google.com/file/d/1lrJMJQ6sIN9Xk0AImzOgTKkXh741VI3p/view?usp=sharing) |
-| PostgreSQL: Node.js Client     |                                                                                                                          | [🖼️](https://drive.google.com/file/d/1m-xlhm4QL93bxWvYsR0MVhF13a9USEXH/view)             |
+| Intro to PostgresSQL Databases | [📺](https://youtu.be/tLDeneWNTe4) | [🖼️](https://drive.google.com/file/d/1lrJMJQ6sIN9Xk0AImzOgTKkXh741VI3p/view?usp=sharing) |
+| PostgreSQL part 2 diagramming and database design |  [📺](https://youtu.be/Hk95hcw-pLo)                              | [🖼️](https://drive.google.com/file/d/1m-xlhm4QL93bxWvYsR0MVhF13a9USEXH/view)             |
 | Sequelize                      |                                                                                                                          | [🖼️](https://drive.google.com/file/d/1aiuzts6wny4Wk0ipB_ohBk3CJzOmr65M/view?usp=sharing) |
 
 Access Passcode: &d46%@F?
@@ -449,35 +538,53 @@ Access Passcode: &d46%@F?
 - [Sequelize Querying and Associations: Part I](https://gist.github.com/ajLapid718/ca67efc0360c617e5eebb6f1342ae53e)
 - [Sequelize Querying and Associations: Part II](https://gist.github.com/ajLapid718/dfb48815a7472e9f6df09131bd0a7d49)
 
+- Due Thursday at 10 AM:
+  - [Assignment 10 psql](https://tinyurl.com/ttpa10)
+
 Additional Resources:
 
 - [SQLBolt Tutorial](https://sqlbolt.com/)
 - [SQLZoo Tutorial](https://sqlzoo.net/)
 - [Tom Kelly Sequelize Docs](https://github.com/tmkelly28/sequelize-reference)
 
-#### Day 12 : PostgreSQL/Sequelize II
+Group Project #1:
+<!-- [Fullstack CRUD Application](https://docs.google.com/document/d/1tKiSJiPBnQTKzcUehzOYwn1Dv5V4uYO4-rTO0t3rQxM/edit#heading=h.7nze431u3zaf) -->
+
+[Fullstack CRUD Application](https://tinyurl.com/CrudSpec)
+
+#### Day 12 : PostgreSQL/pg-node and more express
 
 | Topic                              | Lecture                                                                                                                  | Slides                                                                                   |
 | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
-| Intro To Schemas                   | [📺](https://us02web.zoom.us/rec/share/U8vJyP4UMmhNTzbMGDecZBu22stXypBx2p1hy27QoL-98tLv_XCQeclAMJKDMF8.NlH6gPdCeeuM8ZdZ) | [🖼️](https://drive.google.com/file/d/16cL5H3i5Yo9S2GNDqQJrFOHfT9QZbOKI/view?usp=sharing) |
-| Introduction To ORMs               | 📺[Insert Link Here]                                                                                                     | [🖼️](https://drive.google.com/file/d/1uuGYZ-ag-NXMTLt1yp63mIdsGp_mYAWJ/view?usp=sharing) |
+| Express and Postico                 | [📺](https://youtu.be/hFKNU0HdBxE) | [🖼️](https://drive.google.com/file/d/16cL5H3i5Yo9S2GNDqQJrFOHfT9QZbOKI/view?usp=sharing) |
+| PG Client and querying from express serve               | 📺[https://youtu.be/D8AoC0ECk7A]                                                                                                     | [🖼️](https://drive.google.com/file/d/1uuGYZ-ag-NXMTLt1yp63mIdsGp_mYAWJ/view?usp=sharing) |
 | Rounding Out Express and Sequelize | 📺[Insert Link Here]                                                                                                     | [🖼️](https://drive.google.com/file/d/1X13dFSydJiMV1Xfg6a5qyrMfwJfvQQ6d/view?usp=sharing) |
 
-Access Passcode: rY+e!24j
+
+ [Sample Code](https://github.com/ArielAvshalom/Example-CRUD-API-for-TTP)
+
+ [Cliff's Resume Talk](https://youtu.be/ogYtQ3_oADQ)
+
+ [Cliff's Slide Deck](https://docs.google.com/presentation/d/1J8MK9zX9YCx_7PSRyN5-RSMH3W4Ir4NK/edit?usp=sharing&ouid=102426324810325156318&rtpof=true&sd=true)
+
+[TTP Candidate Profiles Form](https://airtable.com/shrnKwnZOvkqbw0nd)
 
 #### Day 13 : CRUD APP
 
 CRUD Kickoff and Review Session with Dino
-[📺](https://us02web.zoom.us/rec/share/dwwmxPhpeQ14AgTD3NgaYwioTZiBJDi450bJGCOAZG0NhOHm4k_8Wyhg3qgEAxvu.IXeRg7Jz6f7yTXvK)
+[📺 Sequelize (morning)](https://youtu.be/79l-7t94OJA)
+[📺 Sequlize and CRUD Backend](https://youtu.be/5jZGVsqGuyU)
 
 Access Passcode: !s@0k89f
+
+[CRUD CODE : It's not all that cruddy, and it's really neat!](https://github.com/ArielAvshalom/backend_crud)
 
 #### Day 14 : CRUD APP II
 
 Review Session with Dino-mite!
-[📺](https://us02web.zoom.us/rec/share/kgTYrpw-doEc3RA0jZ0BxngON5FVbwC_m6IRU_mUSmIfJ0eo8VfCJjkVn5bjMhAx.vn49CWNNY84a7JDe)
+[📺 Frontend CRUD and data flow](https://youtu.be/E2Jsxulsqv4)
 
-Access Passcode: FqtC.5c*
+[Front End CRUD code](https://github.com/ArielAvshalom/CRUD-Front-End-TTP)
 
 </details>
 
@@ -486,4 +593,49 @@ Access Passcode: FqtC.5c*
 Capstone Project, Demo Day, and Exit Assessment
 
 <details><summary>Click to open</summary>
+
+Day 15: Beginning the Capstone!
+
+Goals:
+
+- View our [spec](https://1drv.ms/p/s!An3mqqGZuSCthdM701hmrjaXOuWNsA?e=fKs7aq) (a powerpoint) on the Capstone
+- Break up into assigned teams
+- Begin the planning phase
+- Meet the instructor and your assigned TA to work out what you'd like to develop
+- Build a wire frame
+
+Additionally, join us for a lunch and learn with a Google Software Engineer!
+
+[Spec day recording](https://www.youtube.com/watch?v=2TDSbMxhfUk)
+
+Day 16: Capstone part 2:
+
+- Work with teams on the Capstone
+- Meet with TAs and instructor if there are any issues
+- Consider both the frontend and backend and decide what you'd like to prioritize
+
+
+Day 17: Capstone part 3:
+
+- Have an MVP (minimum viable product) ready by the morning today
+- Continue working on your project and consider your stretch goal
+
+Additionally join us for a mandatory lunch and learn session with American Express!
+
+
+Day 18: Wrapping up the Capstone:
+
+- Work with your teams (likely till really late at night...)
+- Meet with TAs and instructor for any final issues or tweaking
+
+Additionally, join us for a lunch and learn session with a recruiter from HubSpot!
+
+Day 19: Demo Day:
+
+- Take the exit assessment
+- Present your demos!!!
+- Hear our closing statements and get ready for the Spring semester (and your Summer internships)!
+
+[Demo Day Recording](example.com/demoday)
+
 </details>
